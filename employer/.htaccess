@@ -1,0 +1,22 @@
+<IfModule mod_rewrite.c>
+	Options +FollowSymlinks
+	Options -Indexes
+	RewriteEngine On
+#	RewriteBase /admin/
+
+	RewriteRule ^access_denied$ access-denied.php [L,QSA]
+	RewriteRule ^user-login$ login.php [L,QSA]
+	RewriteRule ^reset-pass$ login.php?type=reset-box [L,QSA]
+	RewriteRule ^signup-user$ login.php?type=signup-box [L,QSA]
+	RewriteRule ^welcome$ index.php [L,QSA]
+	
+	
+	
+	
+	
+	
+	
+	
+	RewriteRule ^(.*)\.htm$ index.php?page=$1.htm [L,QSA]
+	
+</IfModule>

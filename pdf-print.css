@@ -1,0 +1,82 @@
+/*@import 'mpdfstyleA4.css';
+@import 'mpdfstyletables.css';
+@import 'mpdfstylePaged.css';*/
+
+body { font-family:: DejaVuSansCondensed, sans-serif !important;}
+footer .tag	{ color:#999999; text-align:center}
+
+header .head { background-color:#FF2D16; text-align:center; font-size:30px; color:#FFFFFF; width: auto; margin:0 auto; line-height:45px}
+
+.info h3	{  text-align:center; color:#999999; }
+.info p		{  text-align:center; color:#000; }
+
+.left { text-align:left}
+.span {margin-right:100px;}
+
+
+.red-text		{ font-size:12px; font-weight:normal; color:#999999; padding:6px;}
+
+
+.border		{ border:medium; border-color:#000000; border-collapse:collapse;}
+
+.containertext		{ font-size:12px; font-weight:normal; color:#000000; padding-right:50px;}
+
+.center		{ text-align:center;}
+
+.margin-right {margin-right:100px}
+
+table {page-break-inside:auto; page-break-before:avoid;}
+table th	{ font-size:12px; font-weight:bold; color:#FFFFFF; background-color:#999999; page-break-inside:auto;}
+table tr { page-break-inside:avoid; page-break-after:auto }
+
+
+.information .head { font-size:12px; font-weight:bold; float:left; margin-right:10px; padding-right:10px; min-width:22%; width:auto; }
+.information .containertext { font-size:12px; font-weight:normal; float:left; margin-right:20px; padding-right:20px; }
+
+.border-table thead {border:1px solid #999999; color:#FFFFFF; background-color:#999999; }
+
+.border-table tbody td {vertical-align:top; border:1px solid #999999; color:#999999;}
+
+
+
+
+/*My Style */
+
+.container { border: 1px solid #CCCCCC; height:auto; text-align:left; font-size:9px; margin-top:9px; padding:10px;}
+
+h1, h2, h3, h4, h5 {color:#000000; margin-bottom:2px; margin-top:2px;}
+
+h1			{font-size:25px; font-weight:bold; padding-left:15px;}
+h2			{font-size:20px; font-weight:bold; padding-bottom:0; padding-left:15px; vertical-align:middle;}
+h3			{font-size:17px; font-weight:bold; padding-bottom:0; margin-bottom:0 !important }
+h4			{font-size:15px; font-weight:bold; padding-bottom:0;}
+h5			{font-size:14px; font-weight:bold; padding-bottom:0; color:#999999; padding-left:4px;}
+
+.text		{ font-size:15px; color:#666666;}
+
+table { border-collapse: collapse; line-height:17px; text-align: left;  margin-top:9px; vertical-align: bottom; }
+td { }
+
+hr			{ width:100%; margin-left:0;}
+hr .grey	{ color:#CCCCCC}
+
+p { font-size:15px; color:#666666;}
+
+img { padding-top:0;}
+li {
+font-size:15px; color:#666666;}
+
+small { font-size:15px; font-weight:normal;}
+
+
+
+
+
+
+
+
+
+
+
+
+

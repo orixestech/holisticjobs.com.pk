@@ -1,0 +1,896 @@
+{\rtf1\ansi\ansicpg1252{\fonttbl{\f0\froman\fcharset0 Times New Roman;}{\f1\fswiss\fcharset0 Arial;}{\f2\fswiss\fcharset0 Arial;}{\f3\fswiss\fcharset0 Arial;}{\f4\froman\fcharset0 Book Antiqua;}{\f5\froman\fcharset2 Symbol;}{\f6\fswiss\fcharset0 Arial;}{\f7\fnil\fcharset2 Wingdings;}{\f8\froman\fcharset0 Book Antiqua;}{\f9\froman\fcharset0 Book Antiqua;}{\f10\froman\fcharset0 Cambria;}{\f11\froman\fcharset0 Book Antiqua;}{\f12\froman\fcharset2 Symbol;}{\f13\froman\fcharset0 Book Antiqua;}{\f14\fswiss\fcharset0 Arial;}{\f15\fnil\fcharset2 Wingdings;}{\f16\froman\fcharset0 Book Antiqua;}}{\colortbl ;\red0 \green0 \blue0;\red0 \green204 \blue255;}{\info{\author Ghauri}{\creatim\yr2015\mo9\dy28\hr10\min10\sec37}{\revtim\yr2015\mo10\dy14\hr5\min35\sec39}{\title FAHAD GHAURI}}\jexpand\dntblnsbdb\viewkind1\paperw12240\paperh15840\margl1340\margr1720\margt520\margb280\sectd\sbknone
+{\shpgrp{\*\shpinst\shplid72
+\shpleft8658\shptop108\shpright10554\shpbottom2588\shpfhdr0
+\shpbxpage\shpbypage\shpwr3\shpwrk0\shpfblwtxt1\shpz6
+{\sp{\sn groupLeft}{\sv 8658}}
+{\sp{\sn groupTop}{\sv 108}}
+{\sp{\sn groupRight}{\sv 10554}}
+{\sp{\sn groupBottom}{\sv 2588}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\shp{\*\shpinst\shplid73
+{\sp{\sn relLeft}{\sv 8730}}
+{\sp{\sn relTop}{\sv 180}}
+{\sp{\sn relRight}{\sv 10490}}
+{\sp{\sn relBottom}{\sv 2520}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+
+{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lTxid}{\sv 65536}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{
+\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn fBehindDocument}{\sv 1}}
+{\shptxt\pard\plain \ql\li0\ri0\widctlpar\sl2340\slmult0\pvpara\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0
+{{\*\shppict{\pict
+{\*\picprop\shplid73{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}}
+\picscalex48\picscaley48\piccropl0\piccropr0\piccropt0\piccropb0\picw6429\pich8572\picwgoal3645\pichgoal4860
+\jpegblip{\*\blipuid 0b273536b687aa42a500e8da37004f9a}
+ffd8ffe000104a46494600010101006000600000ffdb00430003020203020203
+03030304030304050805050404050a070706080c0a0c0c0b0a0b0b0d0e12100d
+0e110e0b0b1016101113141515150c0f171816141812141514ffdb0043010304
+0405040509050509140d0b0d1414141414141414141414141414141414141414
+141414141414141414141414141414141414141414141414141414141414ffc0
+001108014400f303012200021101031101ffc4001f0000010501010101010100
+000000000000000102030405060708090a0bffc400b510000201030302040305
+0504040000017d01020300041105122131410613516107227114328191a10823
+42b1c11552d1f02433627282090a161718191a25262728292a3435363738393a
+434445464748494a535455565758595a636465666768696a737475767778797a
+838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7
+b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1
+f2f3f4f5f6f7f8f9faffc4001f01000301010101010101010100000000000001
+02030405060708090a0bffc400b5110002010204040304070504040001027700
+0102031104052131061241510761711322328108144291a1b1c109233352f015
+6272d10a162434e125f11718191a262728292a35363738393a43444546474849
+4a535455565758595a636465666768696a737475767778797a82838485868788
+898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4
+c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9
+faffda000c03010002110311003f00e5f7b531de9aef55fceafda0fe2d8c495d
+ea279a99e7542ef5274c622caf55f7d0ef4ca46f188fdfef46ff007a868df526
+bca3fccf6a6eff009e99bfde99bfdea0be425675ef51c98ec31599af78974cd0
+2dbcebeb98e05ff6abcff50fda0fc3d6c7f722e2e9ff00d94d95c952bd2a3f1c
+cf6709956331def61e94a47a8965ecb8fc6963651f797f5af01bff00da3eedf7
+fd934c876ff0f9aedb96b37fe1a275c1b57ec56bf2ff00b4dfe15c12cd30dfcc
+7d243843359c7e1ffc98fa4f7ad3d371f97fbd5f3e58fed1f7091aadc6991337
+f132cbb7fa56e43fb4669cedf358cc9fee6dad23996167f6ce4abc279b43fe5d
+1ed7b8afcaeed4bff00af2ed3be3ee81a83ac5209ed33f75e54aeeacf5383554
+496da7dfbbfb9257552af4aafc133c4c56578cc0ff00bc52e535136ecfbb4cfe
+3ff76a04b964658e45d8dfdefe06ab5f2a7fbf5b1e5ca3ca2bbafc8fb5a8dfb1
+fe5a8e95e833237e9f2d366eb4e776d9513d3348913d44f53bd44ff72836895f
+e6db43d3e99b283622a6ecf99aa5dbf3d32972963367fb7453e8ab2ced77d577
+7a89dda98ef5d07cf4600eed4ddf4c77a1de836e518f43bd1bea27a9361fbf7d
+459c53246a82eaf52ce092595b6c71aee666a837841cdd916259c428eccdc7fb
+55e43f113e38c7a35c3d9e8856e6eff8a76fbabfa5719f11fe2fdcf882696cb4
+995adec15b6974fbd257953b7cdf357cbe619a72fb9873f5cc8b84e2bfda330f
+fc07ff009235b5ef146a5e27bcfb4dfdc34ceddcfddac8a6d15f2152a4a72e79
+1fa953a71a51e58c029d4da2b1351d5342f50d4d0a7cdf7a8034214575f95992
+b7747d7afb4797fd1a564ff6375624366ae76ee5ff007d2ac43ba1ddbb6ffc0d
+6ba635650f7e06356946b479267b8f857e244ba92a41732fcedf244ffc75e95a
+3eb71ea56bb959bcd8bfd6a3afceb5f2a69baaec6dacbf3a3fc95ea3e12f18ca
+9796b3799bcbaf953aff007bfbb5f4f81cc253f7267e699ef0dd2e5f6b8781ee
+08fbd7e5feefdea7567e9b7913ff00aaf9d1beed686f5afaa89f8cd4a5c92e41
+9b3e7fe1a8b636ef7ab0ff0072a2a08b95ff00bf50ba6ffbb56dc7cf513d06dc
+c44ff77e6a86ac6cdf513a51ca5c4871f3d36a57a4d9f2d5f29b73106ca2ac6c
+a280e63a0df55de877a656a7951883d36877a66ff9aa4d8692c4542ef4f77aae
+ef41b4623df9af19f8e9e36fb108b4781fefaef9beb5ec333ec85db77ddaf923
+c75a9beb7e27bebf68f624b2ed4af0f34c4ce950e487db3f41e11cbe18ac67b6
+abf0c0e7669bce7fb8a9fee557a9667dedb95553fdca8abf3e948fdc223fe6dd
+b6a5fb336dddfad090b7dea3e64fbb5059154a89fecfdefbb562c34d9755ba48
+a25fdebfcf56d3fd1a27b3b98ff7bbb7abd0066243bdb62d4db191dd5b723a54
+b359ca811befad179be66fbdbf62fcb40026efbd16e4d9ff008e5584bc67f96e
+773d57dfb204657f9fee325337ef5a00b7bd71fee7dd7ad5b0d6dad9f77cc8eb
+fdcae7f7fc9b5bf868dff27deff8055c65287c044a319fc67d0df0c3e24c3a8e
+fb6bbf925dd5eb96e55886ddfeed7c456d7f259cbb95993e6fe1afa4be0df8ed
+f5f89f4fb96df7512ee576fe25afb3caf30f6dfbaaa7e43c55c3ce8c658dc3fc
+3f68f4f4ddb69367b54df3ff00150fbebe9cfc8f98aee9c54253356ea27e9472
+9712bff1d32ad6c34cd86ab94be6207f9e8d9ed567cbf9e93cbf7a65f3116ca2
+ac6ca28239873d45ff0002a7eea649d0504446bbfcd4cdf4c7e2a27a0da31095
+daa12f8a91daa3a0da272ff12f586d23c23792a7de75f297fe055f2adcdcb3c5
+b777f17cc95ef5f1fef9a2d2ace0593e5666dc9fdeaf004f9debe173babcf5f9
+4fdd38470d1a380f69fcc435622877fcdbaade89a3cfac5fa411afdf6afa0bc1
+9f006da68bfd3373bbafdcaf90af898e1fe33f49c360aae23e03e77f259dfe58
+99ff00dcab167a25f5ccaab14123bff736d7dc7e0ff80fa1d86d6fb1abff00be
+b5e9ba3fc28d0ecdf72e9907fc0d6bcd9669fc903d8fec8843e399f9d967e12d
+6ac2179d6d6546fb9f77e75aa5736373f686596095dffddafd30bcf863a2de3e
+e96c62dffdfdb5c57893e03e95b5e782054fef6ca23997f3c02595c7ec4cf85e
+c3c2ba9dcc1ba0b69669777cbb2bb8d1fe00eb9e27b7f3d606865fee6cd95f5e
+fc3df01d8e8edb520ffbed7e7af53b3f0edb42bfba81537d63571d2fb074c72f
+a50f8cfcf49bf663f11c3b3f70df77e6ae62ff00e0e6b9a6b4be6db37cbfecd7
+e96dce89bff82b99d63c1905cabef8beff00dfac7fb42bc0bfecfc2ccfccfbff
+0007eab608f2cb672a2ff7f6563fdcafd06f157c37b3bfb5756817eefdcdb5f1
+e7c5af003783f59f917f732fddaf570d8bf6b2e499e563b2df631f6b48e0acfc
+a797f7bf72badf0878a87873c5961716efb1164556ddfdd6ae7ecde0481de5fb
+fb7e5acf85b65d237f71abdba72f65284a07cce228c6bd39d29fda3eecb7759a
+25917eeb54836d55f0c867d12c59bf8a156ffc76aff935fab40fe49acb92ace0
+552314cab6f1531d16acca322beca655bd9f253365595cc57d94fd9f3d58d9f3
+fdda7eca7ca3e62becff003ba8ab023c8a28e431e7332a277a1f7542fdeb13d2
+883d31fee537efd141b0ca1e9ee94ca0b3c4ff006828985d69f2b36f56475d95
+e269f7ebe82f8e7a0c973a5c77ff00c36dc6daf9ec7dfafcf7388f2628fdff00
+85ea4679641c7ec9ebbf01f418aff5ef365fb8b5f64787b4a5de9f2d7c99fb34
+bcb73af4b17f02ad7da1a25b7dcdb5f9d63ff8a7ec796ffba9d468f60bb13e4a
+eaeced94ad656950fc895d15b26c5ae3a713a2a48ab35a23ff000d33fb2d265d
+adf72b57c9f9eac2429b6ba794c798e7edbc3b042fb956b492cb6568edf976e2
+8d9ed57ca47319ef6df2d63ea56d5d2cc89b2b2af13e5ac646d191e7faad9fca
+df2d7cdffb4a783d6ffc3cf791c4bbed7e7afaa35287e5db5e59f13b47fb7f87
+f5089937fee9ea29cb9246d569f3d29c0fcefbc8590d36c2d5af2fede05fbf2c
+a89577c430b5b6a97116dd9b1b6569fc3bb2fb6f8d7448df6fef2e53ff0042af
+b6a31f6b56113f38c554f614e72fe43ecfd1ed7ecba75b43ff003ce355ab856a
+5861d8ab4ed95fb0729fc7356af3cf9caaf1d35e13fddab8e94dd957ca67ce54
+f268f26adeda66dab2f9887652f9356121a7f9347291cc54f25a8abbe4d157ca
+47b43927a639514d777a65701f43ca27f1d1b29adbbbd094162bed6a362d1b3f
+ef8a4d950338ff008ab079de0bbe56f936aeef92be5474d8d5f61f8d6c5b51f0
+dde42bb5cb46ff007abe479ad9a1baf29f6bbab57c767b1f7e133f67e0aa9cf8
+5ab4bfbc7d1bfb27786e577bbd4193e4fb8b5f5ee950aa6caf25f803e1e5d13e
+1de99fba547957cd67aed755f1fe95e1b77596e57ce46fb95f94e279aad53f7f
+c372d2a5081eada5257410a3578a786fe3c683f76f2e5617ddfc6db2bd4fc3df
+10b41d6d53ecb7d13bff007375118ca012aa74a8952d450ea56cebb96557ff00
+8153d2689d77ab568412d26c6a549128fed3b587ef48b4b9881934359f729f25
+3f55f19e8da3c0f2de5f410a2a6f6ded5e65ac7ed1be124b87b6b3be5bc97f87
+ca57a396532e32e437752f925ae535bb35b9b29576efdd5e5fe2af8f1afc3af4
+4da6695f6fb766d8c88df7ebbef0df89d7c55a6f9fb5adaed3e49ed1fefc4f58
+fb2940ec8d5e789f00fc66d11b41f1f6a7032ec4ddbd68f8396d2dcfc42d23cb
+5fb9316fd2bd13f6bcd27ec9e38b19bfe7e20a3f65bf0dfdab56bdd4597fd42e
+d5f96beef27a5edabd23f2ae29c4c70381c556feeffe947d2a90fcb4ef2aacec
+14cd82bf5b3f8d39cafe51a4d956f653367cd5b07315de1a6f947daaeec6a66c
+f9eacbe72beca7a439ab1b29db28e523988bc9a29fb28a08e63ce7e6dd4d7a77
+df6a8cf5af34fb31d427dfa28d9fdda0073d368d94e4f92802d5f40fff0008df
+991c714d717b3fd9d7cdfe04fe3af99be22f8025f0f6b314b17fa9ba97e54db5
+f5c58db2ea3a25aa27fcbbcefbbfe049553c6de09d3fc43e10d1da7db0df4175
+13accffc49bfee57e399b636ac3339c2afc07f57f0ae5b427c3d879d287bf33b
+df0de8eda3f84b4cb35f93ca8113ff001caaba57c37d33ed52dcde451bbbfcec
+f71f3d7a169566b32a2b7f0ad6578cfc0d3f8934db8b18ae5ad9255d9bd2be62
+a55f7cfb8a11f74f37f13e83f0761b7bbfed3d7ad2c25fb92b453fce95e6f0f8
+57c09a96b312f85fe2246f70edfba4f9d1ebd175bfd9c96ffe17dc78634f8ada
+1baf3fed0ba8bafcecff00edd45f043f669d73c0de2fd3f5cf10de5a6ab696be
+6bc1688bb3e797f8ebb2328fb2f8ce6952942afc0771e06f0deb5a2586c9f508
+f52debb3cd8abd1741b99f7244dfc3f25161a0fd8f57b8960816db4f9537ec46
+fbad56f4a4df7afb7fbd5e3cbdc91eac7df369a197cbfe24ae3f5986f2ff0074
+517c9fedeeaefa54fdc573f0c3e73cabff007cd448889f317c4bf84b6734f77a
+aebde256b3b78977b6c66745ae47c0de27f815e15bc8965d4f54d62ed9b679af
+6afb3757d5773f0fff00b5741d56c755b382e65d4ad5edd9fcdff55bbfb95f3b
+e9bfb147886db54d3daf3c4ab79a54172970d6fe56cddb7ffb04af570dc9cbfb
+d99c75f9f9bdc81eb1a0f8cfe1debdbed74868e1b856d8d6f345e54a9ff006ab
+09e15587517beb189b7b7c8c89f71aaeeb1f0720f1278c22d7e7823b6bb89762
+fd9d76efff007ffbd5df5878796c2cf6eedf5c1297bdee1d9cb0e53e2cfdaf7c
+1f2eb7e27f07c112fcf74cf6fbff00e0695e8be00f87ade00b5d2b4a8197ec57
+5bade5debf3f9bb37257af6bdf0eb4ff0016f8b745bcbe6f934d95e5893fbcf4
+7887475fed4b44fe34d4565dff00ecaa3d77fd7aad2952f64707f67e17114311
+0c443e2848f3c787cb775feed1b39ab7326f9e665fb8cd4d31fe15fd271f84ff
+0039652e5915bcaa3caab146cab2398afb28d9561d29be555f287310eca3654f
+b0d3f61ab0e620f2fde8ab1b3fd9a28e52398f21fb94ff00b9450f5e39fa107f
+19a7d429f7aa6a0ce43bf8e9e8942253d12a8c8e87c2976bf699ade5fbb2fddf
+f7aafea5e54d79a240dff3d57e47fef2bd72f6ecf0ccad1fc8e95d958241a925
+bde4abfeaa54757ff6abf32e2acb7f7b0c6c0fe88f0db3d8fb09e555becfbd13
+d7b4445ae8a0b6ded5cee8137cc895d6db7dfafceaafc47ed14be12d5ae9b167
+eed5936717f72a583ad5854ab88195a927936af58fa527fa57c95a7e24b9d9b2
+05f9ddff0082a8e888df68dacb5c753e33b2947dd36ef31e4552d3515ee37d6a
+de27fa2d615b3cb6d77bb6fcbba890463ee9d57d8d5d7eed1f635fbbb2addb7f
+aa46a76caee383df33459aa7f0d57b94d8b5b0e9599a83aa2d61236382d7af3e
+c17ab2ee54aa3e27b95dd7173b7fd545b17fdfad1bb4b6d4b5748a75debfc35c
+bf8be7cc8b6a9d13e67af7724cb658ecc6943ec7c47c371b67b1c9320c455fb7
+3f763ff6f1c8eca36558d9ed46cf6afe873f80f98afb29852ac6ca3656d12f98
+87635376558a6ecf9aac39866cf9e8d952eca36520e6198ff3ba8a9b67b514c8
+e73c5e97efd1f253d3a578e7e9247fc752a6ea3654c9fdea394ce521c9bb34f0
+b8a60fbf5612acc64490aed426bbcf0aa59ffc23d12b4abf34aece95c1c69b4f
+35762cff007f15e666597ff6850fabf3f21eee419dff0060e396339398f68d36
+e76344dfdfaeeb4d972a95e59e1ebc69b4ed3e7ddf3edd8df37f76bd0f47bcdf
+5f82e6143ea98a9d29fd83fb1f28c5c730c0d2c543edc4ecadbee55bc7c9542c
+dfe4a77da7e7ae3f6a7abca66dff00fa35e4b3b45bff0075f2d64f83fc48bac5
+e4ad3d8dce9b32b6c68ae16ba59b6dcfcaff003d450e9513bff16da8e5e72fda
+c610e434f55bc812d5ff00d9ae53c3de2a8b5b9258a2d32ee1b45fbb717116c4
+97fddfe2add3a6ec676f359ffdfab16d67023ee6f9deae5194c8a7569423c869
+d9a6c8b6b55ba87cc5a7f9cbfdea7ce472915ced4ae5b5bbcd88d5b77d73f2ee
+ae3f589bceddf3567cdcf2343374dd4aceceeae1af1a2477fbbbdab92f115c45
+7dae4ef07cf07dddf506b4ecfa8c8dd36fca2aa49b9cb16edd6bf7ac8b22a597
+f257e7f7a703f88f8e78d6be7b3965dc91f654a72e597dafe520d943a54d8347
+97ef5f687e35cc43e5fbd36ac53186682b98afb28a9b6533655c4be60418a2a4
+db4bb3daac9e622cb7a5152eca28e51731e25b2a54a3653f657867e97cc38262
+a455da6a34ab1b2b739e436a54f9e9e90d58486af94c25219b3fd9ab094ff26a
+544a394e6948ec3c0f71bad6e2d7f8d1b7a57a4583f92c95e3da1dff00f675f4
+737dc57f91abd3b4abf5bfb3dcadbffe055f89f18e1beaf8cf6bfce7f5c785f9
+97d7728fabcbe2a523bb86fd7ecbf7aa24bef97e6accd1e6f3936bb53f5bd05f
+52b078964961dfff003c7efd7c04647ebf289aa9ac59d9ff00af9d53fd8ddf3d
+6859ebd66efb52bc1347f0adf69be2078b50d4ee5edf77caef5ed7a3f81bed76
+e8df6c95ff00dbdd5df4a2635285281b7fdab668df33efff00729f0dfd9ccdb6
+39d77ff72b3dfc012a26efb736cae3b5bf0c79cfe55b5e4fe6ff007d3f86ae51
+944c634e94cf437b9d8bf7a99f6ddef5c9786fc2575a6c48d3ea177792ff0013
+cd2d750e52082b8252368c793dd2a6a573f2edae6b5593ecd6fbf77fb75a6f73
+e74cecd5c4f893556bfba9608beec49bdabd2c9a847178ea54a7fce783c4d8d9
+65993e23150f8e1191cfc9f3beefef526e34e3d69e23cd7f50f29fe6bca5cdef
+484a653d128ab3222a29ef495a728c8a9bb2a7d946ca394be61b450894ead043
+3e6a2a508d8a290b98f15c7cf536ca29d5e39fa3f30a13152a2d14e4ab3190f4
+460fd6acec66f7a6c433d7a55c8629a54dc8b84fef56756ac69479aaccaa542b
+e2eafb2a11e6911e01ef50de6af63a6c7e6dd4eb0a2ffb551eb6f3d9a222c4cf
+bff8ebc57c669a9eab79f6381649a595abe3717c514212e4c2c39cfd432bf0f3
+158887b5c7cf93fbbf68f51b5f8876fadc57e9671cb2450a6cfb47f06faf41d2
+6e6f3c0d7fa641792b4d697f6715d5addbfdc95197ff00424af2ad1fc36ba0f8
+7934f8be7f97e67fef3d7d67f0f7c076df1a7f67bd0ada7fdcea16516c82e36f
+cf13c4fb7ff64af80ccb135736fe29fb970f65d84e1a8f2e163eecfe333347d6
+22fb4237f7ebbdb39b7aff00bf5f3fdebea7e06d45b48d72d9adaee26f91ff00
+8255fefa57a8f81bc5b06b7668ab2abba7deaf869539519fbe7ea1cd1ab1e781
+d94de1d82ffef44bbeac4361a869abb6d91767f737d4ba6dcef7f9eba6b6db32
+7ddae9a7238252399f2755bcf9595767f17cd5a16da27929f32ecae8e38767cc
+894cb97445ae9911cc623db79295cd6b179be5dab5d2eb17f159c0fbdb67f1fd
+eaf25d63c7967e6ccc92efdbf27c95c128ca674d026f13ebcba3e992b7df7fe1
+44fe2abba0f80ee61f859a9f88ee626fb5cb3abaefff007fe7a97e12fc2bd43e
+2beb916a17d1b2695136ff00bbf257d27f16b41b6d23e116a767044b0c514088
+a95ef65f4254bf7a7839ce269558fd5cf892e6f62b3baf2a5568777dd7fe0a9e
+0ba8a65f92556ab97f6105fdabc52a7dfaf3747bef0af88f6caacf6f2b7cae9f
+72bee705c5b8ac3fb988f7e07e0b9c785997637dfcbe7eca7ff8144f456183cf
+3519639e38ab56b12ddc092c1f237f7292e03f9a2368fcb3e99afd2b2dcdf079
+9c79b0f33f9cb3ae18ccf87eaf2e3297bbfcdf64abb299b2a544a3f8ebdf3e53
+988b6fb5152bd36b400a29d450049f2fb5149456241e2c70c7818a96269224e3
+8ab76fa1ddcdf388fc84ff006eb7ed3c26abf3bee9bff40af90c5e7183c27c72
+3f76cbf86b33ccb5a34bddfef1cd4114b2b6d8959dff00d8ad5b7d02593e695f
+67fb15d55b682b026d4da9fec256c59e9abfddaf8dc6f16cbe1c2c390fd3b2df
+0ea843dec7cf9ffc273563e198da4c98bcc53fdfada4d356d96b623b6ff80557
+b94f92be0f179a62b172fdecf98fd4f2dc93039647fd969729c3f886d97ca76f
+bffc0b5c7d9e82a6e373c4be6eeaef92cfed9752edff005317f07fb555df4df2
+7e745ff7ab8e354f6e548cafec4dff0076be95fd8cee67fec3d77439f6efb0bc
+f360f9ff00e594a9bbff0042dd5e1889f3a2fcdf37fb55ec7fb366dd13e244d2
+eed897f67e5327f7f6bfff00675d942a7bc71d78fba7bc7c45f83fa47c42d21e
+0be8177ff0cc9f7d5bfd8af91fc55f01fc55f073527d4f4cf3352b55fee2ff00
+07fb75fa110c3bd11a8b9d120b94fdeaef4ff76bbe54a357e3382862eae1fe03
+e04f0f7c63b6bc5db791359dda6cdd13d7a8683f10ac6f2d77a5d2fc9fed57ad
+fc42fd9b3c39e3389e782ce2b3bd6fbfb1766faf973c61fb2d368f78f05cdf6a
+10ef67dbfbd74465af36a60a943e099ef50cc255bdc9c0f4dbcf89da659b6d97
+53813fe055c8789ff687f0d68fbf7ea0b72e9fc10b6faf319bf6728a197cdf35
+ae7febe2777ab1a6fecf7123bed9e2b3ddff003e917cf5c7cb421f6cf4a3ed67
+f608b5bf897aafc4bb84b3b6825d374d97e49667fbee95e9bf073e084fe27ba8
+6368b7e9ebf3b7deaddf86bf08e297518b4dd3d5ae6edb679b7137cfe527fb75
+f60f84fc2167e13d2a2b3b45c6d1f3b7f79abb28528cfe13cdc6e2e5878f27db
+13c2be15b3f0ae936fa7d8c4b0c512ff000571bfb43de2d87c2fd4ff00bf2b24
+5ff7d3d7a9040057927ed27e5bf81a281bfe5add257a52f7227cc47dfa87c91f
+66f37e5acfd4bc3ab7f17972ad74be4f9371f2d4a969bdf757cf4a47d3f29c56
+9bff0012d952c5bfd6a7c8bfed57569a37da235f956a978c3c3c8f1c57d13b24
+b17c9bd2aff862f25b9fddceaa8e9ff8f5452c4d5c3d5e784cc6be06962e9725
+5873c0a72f875d376d3b2b2a7d2ee624ddb77ffbb5e99f66aab35845bebee703
+c638ec3fb957df3f20cdfc2fc971def61e3eca5fddff00e44f3400a9d99daff4
+a194c6df3ae7f1aef6e744826fbd1abffbf59375e16651ba13e5ff00e815f778
+4e31c0e23dcabee9f8de6de16e6f81f7b0738d58ff00e0323986283a0cd349cf
+4ad0b8d2ae6cbfd6dbe53fbe8775506233f2f15f7343134b111e6a52e73f23c6
+e0b1382a9ecb154a5097f786d14fc2fad15a729e618e96d16eddb77d68428aff
+00c34f861d9f2d5af27e5f96bf9465579cff004d6343906a4387f96afa42a89f
+2d10db355bfb363ef2d63291b72951f6aa7f72b2b589921b5797fb8b5b17855d
+b6d63de59ff696ad6966bfea57f7b2fcdff7c563291d3188db3d296db4e895b6
+f9bf7e5ff7ea19acd5ff00856ba09adaaa4d0a3ffbf57cc4729cec36db2eb7b5
+77be0cb9fecdf106997912affa3ca9b9dffb95cbfd9be7ff0072b77c3dfeb777
+fdf35d34e5ef7398d58f3c4fba3c3f32de59c52ab7de5fbf5b7e4d705f08b556
+d4fc3b69bfe7f97657a2ecafa489f2b2f72435215aa3ad787ecf5eb37b6bc812
+689ffbeb5ab5c8788be26687e1ebb365f695b9d4bfe7da2fbdff0002a6444f24
+f1cfc22bcd059e7b35fb669fff008fa5719a268f2eb779f66b35545ff96b70eb
+f245fefd7a96a3e2cd73c4179fbab9fb342dff002eebf2d53486c7e75f3da1ba
+4fbd0bb7c8ff00ee5793530919cb9cfa1a19855852e499e8bf0e7c31a478674c
+f2b4f9e3b991fe69ee377cced5db93c57ccbe36bc5b0d12e35159e4b6b8b55dd
+f68b76d8fb56bb7f82fe25f184ba2c5278a1a3bfb2badad6176916c9bcaffa6a
+b5ead3f74f0ea29cbdf91ec5d715e37fb4626fd174a5fe0f3dd9bfef8af62470
+ca0ad783fed05a909f59b3b21ff2c212dff7d546265c94c30d1e7ab13c2e687c
+97a4b346f35eae326fa7430ec6f9abe5647d5897b60b73652c5ff3d5765737e1
+c464bdf2a5ff005b17c8d5daaa572fae43fd8fabc5a82ffaa95b64b58c8da275
+1b299327fb54f85f7c48d52d2398a5e4fc9f3d3766cabbb2a2d9fec569cd2239
+22517851eb1b50f0d5bde309213e44e3f8eba4787e4fb955dedbe7df5ec60b34
+c4e06afb5c3cf94f9ccdb22c0e7143d863297344e1cf856fd49015180efbbad1
+5dc885f1ff00d9515f6dfebb633f9207e56fc23ca3fe7f4fff0025ff00e40f38
+4b66ff008055886d9b7d6824356218576d7e647f400cb681929fe5b23d5af296
+95cad67cc0635fec47f359b66c5df51787ace54b796e6555f3676dff00f00fe0
+a35287edf7f159affbf2fcd5bbe4b4312d06e66dc43cd55fb06ff9b756bb233a
+eeaaaff23eddbff7c55c40ce96d97eeaff00c0ab474887c97f9befd5782d9ef2
+5dabff0002adb5b6d9b3fbf5b44c247bd7ecf1a97fc7ee9f237ddd92ad7bc14c
+0af94be0b6b1fd9be34b2566d9e6fee9abea5595ae654f29bf749f7bfdaafa1c
+34b9e91f318b8f2551d3334cb2c71f5af13f1af8267f0e5d3ea16706f89e5dec
+9fed57bb28c56678834d5d4b4c962ff812d77f29c71958f29f0feb706b765f66
+9e089dd7fbebf3a5719e3f865f0f36e756f2a5fbb32545e3cd2b5cf07eb3a678
+874ab954d3fcf44bcb79577a3d7a1ebda57fc249a5e94cb12bdbdd322bbd7372
+9d9cdf6ce2fe08f842efc4c259f5376b9d2229f7a24bff00a07fbb5f46fd9a20
+8abe5aec5fbab54f41d16d3c3fa64163671ac56f0aed50b5a24f15d3189cb527
+cf2295b5aa69b1c986fdc7dedadfc35f36fc56d560d6bc6f7b2c13acd122222b
+afddfb95f4078e754fec7f086af781b6f956ce57fdec57ca5616cb0d9a27f756
+bcdc6cb921ca76e063cf2e632a54f26e196a55fbbf77eed3f51b6673b7fbbf76
+abd9bfcbb5b76ffe2af9e91f43134e1f9fe5a8755d35752b096da55de92ad4b6
+cf567efafddae50947de394f035fcb35bdc69979ff001fb612f94dfeda7f03d7
+51fc75937fa6ad9dd3ea702ec976ec97fda5ab7617915e4492c4d4cb947ed97a
+98f52d1b2a8c2457d8699e4ff1558d9f3d3f61a6490adb3607ff0017455d546c
+0a2b424f3e7454f96a6861f9299f34d3fdeabc90ec8b6b541d427dc4aa337ceb
+b7e6ad0f976fcb55f67cf41a1cd68972a9ab5c413b6cbb66dff3ff001aff00b1
+5d5cc9be2ac9d63c3d16ab17ef7723afdd74fbe959f6daadf787be5d4ffd26c9
+3fe5ef6fddff007e917f19bc53e4aa82d9a66dbbbe4fefd6845fe92bf2ff001f
+f1a55e8eda2d88b4440a96d6ca8bb557650ff24bb6b4111b6ed5a8a64fdefdda
+d8c644fa55cbe9b7515cc5f23c4c8f5f63786ee62bcd22da689b2af1a37fe3b5
+f1bdb47f257d33f0735a4d4fc2d62bff002d218bc86ff80b57b197cbdee43c4c
+c23eef39e8f4c75de8cb4faad7972b6d672cedd117757bc7887957c725d36c3c
+12f6d72dfbd9e554897fdbfe1acaf04c3ad249a2b6ff00f4549552747fb95c27
+c7bf37c617fa4b453cb0d9585d452caffde97f813ff66af7782c22d1fc11a7c7
+1ee7d822666fe366ac6474fc103b7a2917ee8a5ad8e63cd3e3ddf9b3f021855b
+635d5cc50febbbff0065af9fe1dbb3e56af5bfda32ec6ed16cfb112ca7ff001d
+5feb5e49046a8b5f3b8f95aa1ef6063fbae722bc4dff0075b63d54d9c6e5fbff
+00fa155e74f9b75312dbe6ddfc75e41ec444b6995eaea27cbf2d549ad95fe65f
+bf4f7bf8ac2d5e79e554897ef562216e76794fb9b622fdedf5c7f861d9f59d41
+605d969bb7afcdf7a9f797f73e2d97ca895adacb77cdfed574161a545a6c5b62
+a8378c4d24f9d6a54db51222225393ad598f292549b0d353ad3ea8e6275e828a
+72aa60515a72991e5d61bb7bb7f7eb4f7fc955f4d8536a56879358c798f4466c
+a625b7f155bd9fbda7c29f7eb4019e4ac89f7ab1755b0fed86fecf8be7b77ff5
+efff00b25695c5ccb732fd9acdbe6ff96b2ff72b4f4dd356c2dd153f87f8de90
+7c054b6d2a2b0b58a28136222ecd95610b7f72af3c7b2844dff3532398adb3e4
+a8a6877fcd57767cf50cd0b5510564f91abd7fe026a5e4de5f59b37c8ac92aff
+00c0abc953a6ddabfecd771f0a2f3ec1e30b75ff009f889e2ffd9ebbf092e4aa
+71e263cf48fa7bf86b9cf17ea490c505a348b1fda0fcfbff00bb5d0a36f456ae
+2751d1e2d6fc493de4ff003c56dfba8bfd9dbf7ebe9e47cd43e2383f885a559d
+e5c689a45b2ef44ba5baba97fbdb7e644ffbeabd335ad56cf4ad0963976bcab1
+6e58abca6176d6fe25fcb3feea2ffbe12bd35d2d26b5bab99d77a4b17caf41bf
+2fba6a783b571aef87acee73962bb1ff00de5add3d05715f0c2f3ed1a34aaa33
+12caccaffdeaed4f41548c25f11f3ffc799d2e3c656b06ec182cd4ff00df4cf5
+e73b3f82baff008ab77f6cf1fea8ee3e58b6c4bff014ae55d1b6fdeaf96c5cb9
+eac8fa5c347969408a44f93e5a129c51aa64fe0f96b824764485ed9fef566ebd
+a0ff006adaedfee7ce95be9f73e6a1d3e5ac4398e4f47f2ad952064d8f17cb5d
+06c5d950ea5a57da53cd5f91d6abd9de6cfdd4bf26daccdb9b9cba8ff3d3e93e
+5d9f251b3e7ad0cc993e7a7d30a37f7a9edf225232912a6cd828ac5fed955e37
+74a29f313ecce32c352fb36b2b6cdfc6bbd6bab44fb9f2d79278db525d2b54d1
+6f965d9ba544ff00beabd574d7f3a089f7ff000d113ae512c792dbe9be4b794d
+b7f8aaec352ba7c9f76acc798e2bc2b7f159df4ba45ca325eafef55ffe7aaff7
+ebb8d9f22571fe30d127b98a2beb1fdcea76adba27fef7fb15b7e18d6175bd3a
+29e2f93fbc9fdc7fee5447f90b97bf1e734b653fc9a97653f67f1559045e4d0f
+0efa9767f0d1fc74019fe4fcf5a7e1ebff00b06b9a7dcffcf29d2a1993e4aabf
+c3bb77ddada9cbde2251e781f5f593f996503ff7916a8ae99bf4f96290f94f36
+f6664ff6a93c2f73f6bf0de9b3ff007ed91bff001dad1b92bf66977bec5dbf33
+7f76becfec9f23f0c8f9b2ff00558ac3c7977a458fc9fbaf9bfddaf7ad034b8e
+6d1a249932acb5f3825fc5ff000996a73c504b737179791245b3f8bf82bea7b3
+4315ac4adf795541a3ed1bca5ee9cf2cd67e1ed774fb14410fdb3745122ffb29
+babaaae23c6372b6fad6957213fe3de550effdddd5d66a172b6b617337fcf38d
+9bf4a0c647cb9e309bed9e2dd5a54f9f7dd3ff00e8759ee9f2d44f33cd2cb2ff
+0013b6fa789be5d95f1f525cf2e73eaa31f76101e8952ec6df4c87a54c8ffddf
+bf58963b6533efd4d50beedf598014f92b0bc490ac36ed2ab6c7fe1ad8926d89
+f357297934baadf7defdd45f77e6a991b44d5d2a667b5466feed6827dfa8ad91
+52dd36a55887efd012903bd55d56f16cf4e967ddf7577d589be4ae47e25ea4b6
+1e12bd666d9f2eca088c4e262f134f74be6c6cdb1c923f3a2a8782f42f116b9e
+17d3efed2f7ecf6b7085e288c29f2a6e381f95151eccefe589c6fc6bd49747d2
+d206fbf6f74ae8ff00ec33d7b6f856ff00ed3a5da37f7d52be77fdad11acf43b
+2bc8bee34fe54bfeeb57b2f802ff00cef0ee9fb3fe7827fe815b558f25284cc6
+32e7f70f4e866f92a59ae7e47ae7e19b6448df355b49bceac7da11ca4aefe735
+73ff00f22af88127f9bfb32fdf64bfdc8a5fefff00c0eba587ee545a969b16ab
+61359cbf3c52a6c6aa2cdd47574a96b8ff00006b0dfe91a1df4bbf50b0f937bf
+fcb58bf81ebb3ff72b439a51e4990ff1d2fdca73d44e95400ff72abfc8ff002b
+d5ad9513a7fb0b4c394fa03e176ae9ff000afeca69b8fb36e80ffdf5553e20eb
+f763c3b9f2beceb3ff000ff7ab90f869ac7d9bc3f7d63b97e5be89fe7ff693ff
+00b0adff001dcba86b6fa5594107ee965df2dc7f717f8ebeb70d2e7a503e5ea4
+392ac883e1d782a0d325b2ba9fe7bd97f7affec7f712bd42e6ee45bc8e18e3ca
+15dccedfc3585e1bf2acc3cf2b2a22a56f9732c8affde5f96ba4c5fc4636ad62
+daa3b5bcbc5beef36475ff0066b1fc5be2446f0bf89d91bfd55b2aff00df7f2d
+75524132a5cbc9b7e65daa895e17e2ad518e8fafc2adbccf3dac3ff7ceeac6ac
+b9294e65d28f3ce3038544f912a6787e4a851362d4a8f5f1f23eaf9413e4a963
+ea69762bd4bf2a1a80907c889f337c9fedd3df6eddd4cd9ffa154578ea913cad
+f26ca44199adcdbff7117fad96996d61f66836a27dda8b4add7970d3b3ff00b9
+5aafb6a4dbe02a42fb1b6eeabc9f783554991765321764f97750121752b9dad5
+e29fb456bd2c3e144b4822f3a5ba9d6df627f75abd4358bf64797fd9af17f1ce
+a516afe25d2ac656defe6fca951cdef17189eb7e03b4bcb7f07e931efb6876c0
+07963f868aea342b5822d1ed536af09fdea2aee33e57fdaa11353f8777db7efc
+4c8ff7aba8f833aaade784b4a7f37fe5827fe81517c6fd1e2d6fc1baac1e5ec9
+5a07db5e73fb3f6bdff14d5a40cdf3aaecab97bf85ff0004c51fe29f5024bbd1
+3e7fb9576164dbf2d71f6dab2edffd06b6edaf16b8398e9e53a04b9f96aea562
+5b4dff008fd6cdb7f7ab68c8c794e33c73673e957169e23d3d59ee2c9bf7a89f
+f2d62fe34af43d075b8358d3a2bcb66578655de9546e512e62f29977efae0bc1
+9ac7fc213e30bbf0d5db37d96e99ae2c5ff83fdb4ad489479e3c87aaefdf47f1
+d4c8eae9fc343a7f76b43121f97751f2eea63fc94f475ab03a8f86b6cb77e2a5
+b66915629537b7fc06bdc3588637b5448b6ec5af02f04de25878bf4c95bf89b6
+7fdf55eb0fe3089e096dace5f3b50965f297fb917fb75f498297ee8f071d1fde
+9cbda5e5f5e6b3772cf2ec8bcdd9127f7156bd6f496696ca2924c162bf29ff00
+66bcbb4ef0ddf5fcb2ac12fdc6f2bed15ead616cb6363142ad958976ee6af4be
+d1c12f84a3e2bb89edbc37a8496c7170b036c6ff006b15f1959f8b59fc5bac78
+5e791ae6e2cfcaba77dbfde47ffe2ebec8f194ac9a05c15eb5f0ef87b47961f8
+c3f10efa7ddbda7b5b75dffdd58b7ffecf5c78d9725099d997c79ea9de9767a9
+b653214ab688bf76be48fa49089f27fb752ff7169a89f36ea727dfa4620c9f2f
+cb5cc788ef3e78acd7efbfde7adad46fd6c20766ae5749ff004fba9ae65ddbf7
+56523689bb610ac312aad58775c0a3e544354a6b95c7f14dfee56df642232f2e
+7626effd9ab97bff00124f6d3bafdcff006deb62f1e7789d576c3fedfdfaf3ad
+6f4dff004c79776f97fbeff3bd63291b4625a7f185b79576d733efddbd15225f
+fd0debcd747bf5bff1a2dd4b2feea2fbbbead78c2f5ace24f365df5e75e06b3b
+bf13f8825669da1b7697e6487efbd5c63cf1e73689f6bf86f5ed3bfb12d33731
+e769fe668aabe10f0cda5bf86ec635b68f0a847dcf7345238fdd3cbfc79a5416
+1a26a17578db22489ebe4df815e2254bcbbb6ddf7657d95f4c78e6dbfe1615c7
+d9a7b9d9a7affcb14fe3af9713c3cbf0f7e2d5ee9f13b25a4aa92c5feed76e1b
+9674a70097342ac0fa6b4abf7de9f76bb3b0b9de8bf77fe015e6fe1bbcde88df
+deaee2cee511feefc95e3ca27a475b6136f5ae86ddfe4ae5ac3e7f9ab7ad376c
+a226123610d719f10bc30fabe9c97567b5350b56f36097fb8d5d5c3ca7cd4f7d
+aff23ff1d74c646457f869e2d5f1568d14adf25dc5fbaba8bfb8d5d84df76be7
+fbfbf7f851e3e4d55559342d45bcabc44ff964ff00c0f5ee56d78b791249136f
+465f97656c63563f6e04af0d57fe3ab3f7ea1acc82bdcbf96c8cacc9b7f8eb7b
+458e286fe2896564f9b6abd624d0fee9bf8ebb8f0df84ad9f54d33559e56b9d8
+be6c49fc0aed5f4596cbdd3cac59edfa5c31416514302fee557fefaa8f5181ae
+efada3f359238fe7645fe2aced3bc4d66b712d9c6de75c27de44ad5b6f32e24d
+cdff0002af6cf1875ed9c1730f972fceabf36caf90d36ea1e32f156a1b7fe3eb
+5395ff00ef9d89ff00b257d73a92c561a6dfdc3363f74ceccdfeed7c77e0fb95
+bcd37ed317cf14f2b5c23a7fb4fbebcacc25c948f4b2ff008a523a3861ab090d
+430fdda991fe6fbd5f347b24db3e4a89d3f7bb6a57fb95ceeb7adae9489e6b7c
+f3b794b5006078aa6bcbcd492dad955edd7ef3bb7f1d68e9ba54f6d17cd2ff00
+df0b4cd361f3a5f31eb75f6f95f2d4f29b737244ab1db2fdeaaeff0023fcb53b
+bfcbf7ab36e6f15db6ab6fff0072891654d4a65447ff0062bce35ed796177489
+59df65745e24d560b0b579279367fb09fc55f3e78f3e2148ed3416cab6d17fb1
+f7daa2319559721b46254f88baf2de5ea40b3f9d2edf9b67dc4abdf0d1e5877c
+56d16c7fefd78e27c428b47f12dbf9f12dcf9aae9fbefe0afa0fe1d79b79a723
+44d6972f2b6fd9b767fe815df5e94a952e422328ce5ee1f4b782ed2ebfe118b0
+dd3f3b5b3ff7d1a2ad782744b9ff00845ec7fd0d470fff002dff00db6a2b8b94
+19c0e89e13d3a0b37b811b34dfde66cd7c59f16af657f8ed7a9bb6ac43ca50bc
+617d28a2bd3cbfe29ff80e4c4fc50ff11eb7e11ba9248adf2dfc095e95a39f31
+d77738a28af36bfc67a90f84eb348fe0ae8ed385e28a2b988aa6b47c84a741fe
+b4fb2d1456d131e8727f14f4bb7d47c2b7a93a6f5f2ab2ff0066bd6ef353f032
+2dd4be70b795e18f7765f4a28ae9fb247d83d83fbf425145667311b81b5ebbbf
+0ac8dfd8367267e68d5b69f4a28af732df88f371bf09d2f80f4f83fb2750bdd9
+fe92f365a4efcf5af4ad3062cd28a2be87ed1e248e13e3f4f25bfc1bf183c523
+4520d3df0e870457cd3f0e2ce2b2f0968b042bb638ed220a3d3e4a28af1b32f8
+627b197fc133a8fe3a9579a28af9e3d52b4d2374af3cf8832b1b766cf31cf16d
+f6fdea514565236a5f11d758f16ebfee541752b469f29c514550881c6ed85be7
+caff001735977533e366ef968a2b9e46fd4f13f8a5a8cf1dac855f18dd5f36ea
+f7b3c81cb4ad9a28af570212f84f19d42ee5baf116f91b2dbf15f6afc0d817ec
+4a727ee21eb4515e9669fc281e565ff14cfabfc217327fc23965f31fbadffa11
+a28a2bc13d03ffd9}}
+\par}\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {
+\par}}}}
+{\shp{\*\shpinst\shplid75
+{\sp{\sn relLeft}{\sv 8668}}
+{\sp{\sn relTop}{\sv 118}}
+{\sp{\sn relRight}{\sv 10544}}
+{\sp{\sn relBottom}{\sv 2578}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1876}}
+{\sp{\sn geoBottom}{\sv 2460}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;9;(1876,0);(0,0);(0,2460);(1876,2460);(1876,2440);(20,2440);(20,20);(1876,20);(1876,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;19;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid76
+{\sp{\sn relLeft}{\sv 10534}}
+{\sp{\sn relTop}{\sv 138}}
+{\sp{\sn relRight}{\sv 10554}}
+{\sp{\sn relBottom}{\sv 2558}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 2420}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(0,2420)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 13970}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid77
+{\sp{\sn relLeft}{\sv 8708}}
+{\sp{\sn relTop}{\sv 158}}
+{\sp{\sn relRight}{\sv 10504}}
+{\sp{\sn relBottom}{\sv 2538}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1796}}
+{\sp{\sn geoBottom}{\sv 2380}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;9;(1796,0);(0,0);(0,2380);(1796,2380);(1796,2360);(20,2360);(20,20);(1796,20);(1796,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;19;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid78
+{\sp{\sn relLeft}{\sv 10494}}
+{\sp{\sn relTop}{\sv 178}}
+{\sp{\sn relRight}{\sv 10514}}
+{\sp{\sn relBottom}{\sv 2518}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 2340}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(0,2340)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 13970}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\li460\ri-20\sl240\slmult1\sb20\f10\fs52\b0\expnd0\expndtw0\charscalex100 IMRAN\expnd0\expndtw0  \expnd0\expndtw-1 H\expnd0\expndtw0 USSAIN\par\pard\li460\ri-20\sl240\slmult1\sb59\f13\fs18\b0\expnd0\expndtw1\charscalex100 F\expnd0\expndtw0 l\expnd0\expndtw1 a\expnd0\expndtw0 t\expnd0\expndtw-1  \expnd0\expndtw0 C\expnd0\expndtw-1  \expnd0\expndtw-1 4\expnd0\expndtw1 0\expnd0\expndtw0 9\expnd0\expndtw-1  \expnd0\expndtw0 R\expnd0\expndtw-1 u\expnd0\expndtw0 fi\expnd0\expndtw-1  \expnd0\expndtw-1 P\expnd0\expndtw1 a\expnd0\expndtw-1 r\expnd0\expndtw1 a\expnd0\expndtw0 d\expnd0\expndtw1 i\expnd0\expndtw0 se\charscalex100\par\pard\li460\ri-20\sl-223\f13\fs18\b0\expnd0\expndtw-1\up1\charscalex100 G\expnd0\expndtw0 uli\expnd0\expndtw1 s\expnd0\expndtw-1 t\expnd0\expndtw1 a\expnd0\expndtw0 n\expnd0\expndtw-2  \expnd0\expndtw0 e\expnd0\expndtw1  \expnd0\expndtw0 Jo\expnd0\expndtw-1 h\expnd0\expndtw1 a\expnd0\expndtw0 r\expnd8\expndtw41  \expnd0\expndtw-1 b\expnd0\expndtw0 lo\expnd0\expndtw-1 c\expnd0\expndtw0 k\expnd0\expndtw-1  \expnd0\expndtw-1 1\expnd0\expndtw0 8\up0\par\pard\li460\ri-20\sl240\slmult1\f13\fs18\b0\expnd0\expndtw-1\charscalex100 K\expnd0\expndtw1 a\expnd0\expndtw1 r\expnd0\expndtw1 a\expnd0\expndtw-1 c\expnd0\expndtw1 h\expnd0\expndtw1 i\expnd0\expndtw0 .\par\pard\li460\ri-20\sl240\slmult1\sb2\f11\fs16\b1\expnd0\expndtw-1\charscalex100 C\expnd0\expndtw1 e\expnd0\expndtw-1 l\expnd0\expndtw0 l\expnd0\expndtw0  \expnd0\expndtw0 Pho\expnd-1\expndtw-3 n\expnd0\expndtw2 e\f13\fs18\b0\expnd0\expndtw0 :\expnd9\expndtw44  \expnd0\expndtw-1 0\expnd0\expndtw1 3\expnd0\expndtw-1 4\expnd0\expndtw1 6\expnd0\expndtw0 -\expnd0\expndtw-1 3\expnd0\expndtw1 8\expnd0\expndtw-1 1\expnd0\expndtw1 5\expnd0\expndtw-1 5\expnd0\expndtw1 2\expnd0\expndtw0 0\par\pard\li460\ri-20\sl-191\f11\fs16\b1\expnd0\expndtw0\charscalex100 E\expnd0\expndtw-1 -\expnd0\expndtw1 m\expnd0\expndtw1 a\expnd0\expndtw-1 i\expnd0\expndtw-1 l\expnd0\expndtw0 :\expnd0\expndtw-1  {\field {\fldinst { HYPERLINK mailto:imranhs1977@gmail.com }}{\fldrslt \expnd0\expndtw-1 i\expnd0\expndtw1 m\expnd-1\expndtw-3 r\expnd0\expndtw1 a\expnd0\expndtw0 n\expnd0\expndtw-2 h\expnd0\expndtw-2 s\expnd0\expndtw1 1\expnd0\expndtw-1 9\expnd0\expndtw-1 7\expnd0\expndtw1 7\expnd0\expndtw0 @\expnd0\expndtw-1 g\expnd0\expndtw-1 m\expnd0\expndtw1 a\expnd0\expndtw-1 i\expnd0\expndtw-1 l\expnd0\expndtw0 .\expnd0\expndtw1 c\expnd-1\expndtw-3 o\expnd0\expndtw0 m\b0}}
+\expnd0\expndtw-1\expnd0\expndtw1\expnd-1\expndtw-3\expnd0\expndtw1\expnd0\expndtw0\expnd0\expndtw-2\expnd0\expndtw-2\expnd0\expndtw1\expnd0\expndtw-1\expnd0\expndtw-1\expnd0\expndtw1\expnd0\expndtw0\expnd0\expndtw-1\expnd0\expndtw-1\expnd0\expndtw1\expnd0\expndtw-1\expnd0\expndtw-1\expnd0\expndtw0\expnd0\expndtw1\expnd-1\expndtw-3\expnd0\expndtw0\b0\par\pard\li460\ri-20\sl-197\f13\fs16\b0\expnd0\expndtw0\up1\charscalex100\cf2 S\expnd0\expndtw-1 k\expnd0\expndtw-1 y\expnd0\expndtw-1 p\expnd0\expndtw0 e\expnd0\expndtw0  \expnd0\expndtw1 I\expnd0\expndtw0 D:\expnd0\expndtw-1  \expnd0\expndtw-1 i\expnd0\expndtw0 m\expnd0\expndtw-1 r\expnd0\expndtw1 a\expnd0\expndtw0 nh\expnd-1\expndtw-3 s\expnd0\expndtw1 1\expnd0\expndtw-1 9\expnd0\expndtw-1 7\expnd0\expndtw0 7\up0\cf1\par\pard\sl-220\sb13\fs22\par
+{\shp{\*\shpinst
+\shpleft1771\shptop-26\shpright10470\shpbottom-6
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid66\shpz0
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst
+\shpleft1771\shptop312\shpright10470\shpbottom332
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid67\shpz1
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li460\ri-20\sl-282\f11\fs24\b1\expnd0\expndtw0\charscalex100 Per\expnd0\expndtw-1 s\expnd0\expndtw1 o\expnd0\expndtw0 nal\expnd-2\expndtw-9  \expnd0\expndtw0 Summary\b0\par\pard\sl-200\sb18\fs20\par\pard\li460\ri1004\sl277\slmult1\sb13\f13\fs24\b0\expnd0\expndtw0\charscalex100 Uniq\expnd0\expndtw-1 u\expnd0\expndtw0 e\expnd-1\expndtw-7  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw0 t\expnd-1\expndtw-4  \expnd0\expndtw-1 m\expnd0\expndtw0 anager\expnd0\expndtw0  \expnd0\expndtw0 in\expnd0\expndtw-1  \expnd0\expndtw-1 m\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw1 k\expnd0\expndtw-2 e\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-1  \expnd0\expndtw0 b\expnd0\expndtw-2 u\expnd0\expndtw-1 s\expnd0\expndtw0 i\expnd0\expndtw1 n\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 s\expnd-1\expndtw-5  \expnd0\expndtw-1 s\expnd0\expndtw0 e\expnd0\expndtw1 g\expnd0\expndtw-1 m\expnd0\expndtw0 ent\expnd0\expndtw-1 s\expnd0\expndtw0 ,\expnd-1\expndtw-4  \expnd1\expndtw5 o\expnd0\expndtw0 f\expnd0\expndtw-1 f\expnd0\expndtw0 e\expnd0\expndtw1 r\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw2  \expnd0\expndtw0 h\expnd0\expndtw-1 i\expnd0\expndtw0 s\f13  \f9 e\expnd0\expndtw1 x\expnd0\expndtw-1 c\expnd0\expndtw0 ep\expnd0\expndtw1 t\expnd0\expndtw0 ional\expnd0\expndtw-1  \expnd0\expndtw-1 s\expnd0\expndtw1 k\expnd0\expndtw0 il\expnd0\expndtw-1 l\expnd0\expndtw0 s\expnd0\expndtw-1  \expnd0\expndtw1 t\expnd0\expndtw0 o\expnd0\expndtw1  \expnd0\expndtw0 identi\expnd0\expndtw-1 f\expnd0\expndtw1 y\expnd0\expndtw1 /\expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd-1\expndtw-3 m\expnd0\expndtw1 o\expnd0\expndtw1 t\expnd0\expndtw0 e\expnd0\expndtw0  \expnd0\expndtw0 p\expnd0\expndtw-1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw1 t\expnd0\expndtw0 \'92s\expnd0\expndtw0  \expnd0\expndtw0 val\expnd0\expndtw-1 u\expnd0\expndtw0 e,\expnd0\expndtw0  \expnd0\expndtw0 enha\expnd0\expndtw-1 n\expnd0\expndtw-1 c\expnd0\expndtw0 e\expnd0\expndtw0  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw0 t\f9  \f13 po\expnd0\expndtw-1 s\expnd0\expndtw0 iti\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw-1 i\expnd0\expndtw0 ng\expnd-1\expndtw-6  \expnd0\expndtw0 and\expnd-1\expndtw-4  \expnd0\expndtw0 i\expnd0\expndtw-1 m\expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd-1\expndtw-5  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw0 t\expnd-1\expndtw-4  \expnd0\expndtw0 p\expnd0\expndtw-1 r\expnd0\expndtw1 o\expnd0\expndtw0 f\expnd0\expndtw-1 i\expnd0\expndtw1 t\expnd0\expndtw0 a\expnd0\expndtw-1 b\expnd0\expndtw0 il\expnd0\expndtw-1 i\expnd0\expndtw1 t\expnd0\expndtw1 y\expnd0\expndtw0 .\par\pard\sl-150\sb2\fs15\par\pard\li460\ri-20\sl240\slmult1\f13\fs24\b0\expnd0\expndtw0\charscalex100 Acq\expnd0\expndtw-1 u\expnd0\expndtw0 i\expnd0\expndtw1 r\expnd0\expndtw0 ed\expnd-2\expndtw-8  \expnd0\expndtw1 t\expnd0\expndtw0 en\expnd0\expndtw0  \expnd0\expndtw0 y\expnd0\expndtw1 e\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw0 s\expnd0\expndtw-2  \expnd0\expndtw1 o\expnd0\expndtw0 f\expnd-1\expndtw-4  \expnd0\expndtw0 e\expnd0\expndtw1 x\expnd0\expndtw0 pe\expnd0\expndtw1 r\expnd0\expndtw0 ien\expnd0\expndtw-1 c\expnd0\expndtw0 e\expnd-1\expndtw-4  \expnd0\expndtw0 and\expnd-1\expndtw-4  \expnd0\expndtw-1 s\expnd0\expndtw1 k\expnd0\expndtw0 ill\expnd0\expndtw-2  \expnd0\expndtw-1 s\expnd0\expndtw0 e\expnd0\expndtw1 t\expnd0\expndtw0 s\expnd-1\expndtw-3  \expnd0\expndtw0 as\expnd-1\expndtw-3  \expnd0\expndtw0 foll\expnd0\expndtw1 o\expnd0\expndtw-1 w\expnd0\expndtw-1 s\expnd0\expndtw0 :\par\pard\sl-120\sb6\fs12\par\pard\sl-200\fs20\par\pard\li460\fi-360\ri427\sl280\slmult1\tx1180\f12\fs20\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\expnd-10\expndtw-49  \f0\expnd0\expndtw0\charscalex100 \tab \tab \f13\fs24\charscalex100 Re\expnd0\expndtw-1 s\expnd0\expndtw0 ea\expnd0\expndtw1 r\expnd0\expndtw-1 c\expnd0\expndtw0 h\expnd-1\expndtw-5  \expnd0\expndtw0 a\expnd0\expndtw-1 n\expnd0\expndtw0 d\expnd0\expndtw-1  \expnd0\expndtw-1 b\expnd0\expndtw0 u\expnd0\expndtw1 s\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 s\expnd-1\expndtw-5  \expnd0\expndtw0 aptitu\expnd0\expndtw-1 d\expnd0\expndtw2 e\f9\expnd0\expndtw0 \'96\expnd-1\expndtw-5  \f13\expnd0\expndtw0 E\expnd0\expndtw-1 f\expnd0\expndtw0 f\expnd0\expndtw2 e\expnd0\expndtw-1 c\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw1 v\expnd0\expndtw0 ely\expnd-1\expndtw-4  \expnd0\expndtw0 u\expnd0\expndtw-2 s\expnd0\expndtw0 ed\expnd-1\expndtw-5  \expnd0\expndtw-1 f\expnd0\expndtw1 o\expnd0\expndtw0 r\expnd0\expndtw0  \expnd0\expndtw0 ana\expnd0\expndtw-1 l\expnd0\expndtw1 y\expnd0\expndtw0 zi\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw1  \expnd0\expndtw-1 m\expnd1\expndtw3 a\expnd0\expndtw1 r\expnd0\expndtw-1 k\expnd0\expndtw0 et\f13  \expnd0\expndtw-1 s\expnd0\expndtw0 e\expnd0\expndtw1 g\expnd0\expndtw-1 m\expnd0\expndtw0 ent\expnd0\expndtw-1 s\expnd0\expndtw0 ,\expnd-1\expndtw-4  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw0 t\expnd-1\expndtw-4  \expnd0\expndtw0 po\expnd0\expndtw-1 t\expnd0\expndtw0 ential,\expnd-1\expndtw-3  \expnd0\expndtw-1 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd0\expndtw1 o\expnd0\expndtw1 t\expnd-1\expndtw-3 i\expnd0\expndtw1 o\expnd0\expndtw0 n,\expnd-1\expndtw-6  \expnd0\expndtw-1 m\expnd0\expndtw0 a\expnd0\expndtw-1 r\expnd0\expndtw1 k\expnd0\expndtw0 e\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-1  \expnd0\expndtw0 and\expnd-1\expndtw-5  \expnd0\expndtw0 net\expnd0\expndtw-1 w\expnd0\expndtw1 o\expnd0\expndtw-1 r\expnd0\expndtw1 k\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw-1 g\expnd0\expndtw0 .\par\pard\li460\fi-360\ri515\sl280\slmult1\sb69\tx1180\f12\fs20\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\expnd-10\expndtw-49  \f0\expnd0\expndtw0\charscalex100 \tab \tab \f13\fs24\expnd0\expndtw1\charscalex100 Q\expnd0\expndtw0 ua\expnd0\expndtw-1 n\expnd0\expndtw1 t\expnd0\expndtw0 ita\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd0\expndtw-2  \expnd0\expndtw-1 s\expnd0\expndtw1 k\expnd0\expndtw0 il\expnd0\expndtw-1 l\expnd0\expndtw0 s\expnd0\expndtw-1  \f9\expnd0\expndtw0 \'96\expnd0\expndtw-2  \f13\expnd0\expndtw0 E\expnd0\expndtw1 f\expnd0\expndtw0 f\expnd0\expndtw-1 i\expnd0\expndtw-1 c\expnd0\expndtw0 iently\expnd0\expndtw-2  \expnd0\expndtw0 app\expnd0\expndtw-1 l\expnd0\expndtw0 ied\expnd-1\expndtw-3  \expnd0\expndtw-1 f\expnd0\expndtw1 o\expnd0\expndtw0 r\expnd0\expndtw0  \expnd0\expndtw0 fo\expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw-1 c\expnd0\expndtw0 a\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw1 g\expnd0\expndtw0 ,\expnd-1\expndtw-7  \expnd0\expndtw-1 b\expnd0\expndtw0 u\expnd0\expndtw-1 d\expnd0\expndtw1 g\expnd0\expndtw0 e\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-2  \expnd0\expndtw0 and\f13  a\expnd0\expndtw-1 c\expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw0 u\expnd0\expndtw-1 n\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-4  \expnd0\expndtw-1 m\expnd0\expndtw0 i\expnd0\expndtw1 s\expnd0\expndtw-1 s\expnd0\expndtw0 i\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw-1 s\expnd0\expndtw0 .\par\pard\li460\fi-360\ri816\qj\sl278\slmult1\sb69\tx1180\f12\fs20\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\expnd-10\expndtw-49  \f0\expnd0\expndtw0\charscalex100 \tab \tab \f13\fs24\expnd0\expndtw-1\charscalex100 S\expnd0\expndtw0 u\expnd0\expndtw-1 p\expnd0\expndtw0 e\expnd0\expndtw1 r\expnd0\expndtw0 b\expnd0\expndtw-1  \expnd0\expndtw-2 c\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd0\expndtw1 m\expnd0\expndtw0 u\expnd0\expndtw-1 n\expnd0\expndtw0 i\expnd0\expndtw-1 c\expnd0\expndtw0 a\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd1\expndtw3 o\expnd0\expndtw0 n\expnd-2\expndtw-10  \expnd0\expndtw-1 s\expnd0\expndtw1 k\expnd0\expndtw0 il\expnd0\expndtw-1 l\expnd0\expndtw-1 s\expnd0\expndtw0 ,\expnd0\expndtw-2  \expnd0\expndtw-1 w\expnd0\expndtw1 r\expnd0\expndtw0 it\expnd0\expndtw1 t\expnd0\expndtw0 en/\expnd0\expndtw2 v\expnd0\expndtw0 e\expnd0\expndtw1 r\expnd0\expndtw0 b\expnd0\expndtw-1 a\expnd0\expndtw0 l\expnd-1\expndtw-6  \f9\expnd0\expndtw0 \'96\expnd0\expndtw-2  \f13\expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw2 n\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw0 antly\expnd0\expndtw-2  \expnd0\expndtw0 u\expnd0\expndtw-2 s\expnd0\expndtw0 ed\expnd-1\expndtw-5  \expnd0\expndtw-1 f\expnd0\expndtw1 o\expnd0\expndtw0 r\f13  p\expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 enta\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw1 o\expnd0\expndtw0 n,\expnd-1\expndtw-4  \expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw-1 o\expnd0\expndtw1 r\expnd0\expndtw0 di\expnd0\expndtw-1 n\expnd0\expndtw0 a\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd1\expndtw3 o\expnd0\expndtw0 n,\expnd-2\expndtw-9  \expnd0\expndtw0 team\expnd-1\expndtw-4  \expnd0\expndtw-1 w\expnd0\expndtw1 o\expnd0\expndtw-1 r\expnd0\expndtw1 k\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw1 g\expnd0\expndtw0 ,\expnd-1\expndtw-3  \expnd0\expndtw0 le\expnd0\expndtw-2 a\expnd0\expndtw0 di\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-3  \expnd0\expndtw0 pe\expnd0\expndtw1 o\expnd0\expndtw0 ple\expnd-1\expndtw-4  \expnd0\expndtw0 a\expnd0\expndtw-1 n\expnd0\expndtw0 d\expnd0\expndtw-1  \expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 f\expnd0\expndtw-1 l\expnd0\expndtw0 u\expnd0\expndtw2 e\expnd0\expndtw0 n\expnd0\expndtw-1 c\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\f13  \expnd0\expndtw-1 c\expnd0\expndtw0 lie\expnd0\expndtw-1 n\expnd0\expndtw1 t\expnd0\expndtw-1 s\expnd0\expndtw0 .\par\pard\li100\ri-20\sl240\slmult1\sb74\tx1180\f12\fs20\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\expnd-10\expndtw-49  \f0\expnd0\expndtw0\charscalex100 \tab \f13\fs24\expnd0\expndtw-1\charscalex100 P\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw0 t\expnd-1\expndtw-4  \expnd0\expndtw0 la\expnd0\expndtw-1 u\expnd0\expndtw0 n\expnd0\expndtw-1 c\expnd0\expndtw0 h\expnd0\expndtw-1 i\expnd0\expndtw0 ng,\expnd0\expndtw-2  \expnd0\expndtw0 T\expnd0\expndtw1 r\expnd0\expndtw2 a\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw1 g\expnd0\expndtw-1 s\expnd0\expndtw0 ,\expnd-1\expndtw-3  \expnd0\expndtw0 Team\expnd-1\expndtw-5  \expnd0\expndtw-1 D\expnd0\expndtw0 e\expnd0\expndtw1 v\expnd0\expndtw0 el\expnd0\expndtw1 o\expnd0\expndtw0 p\expnd0\expndtw-1 m\expnd0\expndtw0 ent.\par\pard\sl-110\sb9\fs11\par
+{\shp{\*\shpinst
+\shpleft1771\shptop725\shpright10470\shpbottom745
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid68\shpz2
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li460\fi-360\ri74\sl280\slmult1\tx1180\f12\fs20\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\expnd-10\expndtw-49  \f0\expnd0\expndtw0\charscalex100 \tab \tab \f13\fs24\charscalex100 Ea\expnd0\expndtw-1 s\expnd0\expndtw0 y\expnd-1\expndtw-3  \expnd0\expndtw1 g\expnd0\expndtw1 o\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw0  \expnd0\expndtw0 by\expnd0\expndtw0  \expnd0\expndtw0 nature\expnd0\expndtw0  \expnd0\expndtw-2 a\expnd0\expndtw0 nd\expnd-1\expndtw-4  \expnd0\expndtw0 a\expnd0\expndtw-1 b\expnd0\expndtw0 le\expnd0\expndtw0  \expnd0\expndtw1 t\expnd0\expndtw0 o\expnd0\expndtw0  \expnd0\expndtw1 g\expnd0\expndtw0 et\expnd0\expndtw1  \expnd0\expndtw0 along\expnd0\expndtw1  \expnd0\expndtw-1 w\expnd-1\expndtw-3 i\expnd0\expndtw1 t\expnd0\expndtw0 h\expnd0\expndtw-2  \expnd0\expndtw-1 b\expnd0\expndtw1 o\expnd0\expndtw1 t\expnd0\expndtw0 h\expnd0\expndtw-1  \expnd0\expndtw-1 w\expnd0\expndtw1 o\expnd0\expndtw1 r\expnd0\expndtw0 k\expnd0\expndtw-2  \expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw0 lle\expnd-1\expndtw-3 a\expnd0\expndtw1 g\expnd0\expndtw0 ues\expnd-1\expndtw-7  \expnd0\expndtw0 and\f13  \expnd0\expndtw-1 s\expnd0\expndtw0 enior\expnd-1\expndtw-5  \expnd0\expndtw-1 m\expnd0\expndtw0 anage\expnd0\expndtw2 r\expnd0\expndtw-1 s\expnd0\expndtw0 .\par
+{\shp{\*\shpinst
+\shpleft1771\shptop367\shpright10470\shpbottom387
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid69\shpz3
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7365}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li460\ri-20\sl240\slmult1\sb55\f11\fs24\b1\expnd0\expndtw0\charscalex100 Pr\expnd0\expndtw1 o\expnd0\expndtw0 fe\expnd0\expndtw-1 s\expnd0\expndtw-1 s\expnd0\expndtw0 ional\expnd0\expndtw-2  \expnd0\expndtw0 Exper\expnd0\expndtw-1 i\expnd0\expndtw0 e\expnd0\expndtw2 n\expnd0\expndtw-1 c\expnd0\expndtw0 e\b0\par\pard\sl-200\sb5\fs20\par\pard\li460\ri-20\sl-340\tx6200\f11\fs24\b1\expnd0\expndtw0\charscalex100 As\expnd0\expndtw-1 s\expnd0\expndtw0 i\expnd0\expndtw1 s\expnd0\expndtw0 ta\expnd0\expndtw-1 n\expnd0\expndtw0 t\expnd-2\expndtw-9  \expnd0\expndtw-1 P\expnd0\expndtw0 r\expnd0\expndtw1 o\expnd0\expndtw0 du\expnd0\expndtw-1 c\expnd0\expndtw0 t\expnd-1\expndtw-5  \expnd0\expndtw0 M\expnd0\expndtw1 a\expnd0\expndtw0 nager\tab \f13\fs28\b0\expnd0\expndtw-2\charscalex100 M\expnd0\expndtw1 a\expnd0\expndtw0 rch\expnd0\expndtw-1  \expnd0\expndtw-1 2\expnd0\expndtw-1 0\expnd0\expndtw1 1\expnd0\expndtw0 5\expnd0\expndtw-2  \expnd0\expndtw0 to\expnd0\expndtw0  \expnd0\expndtw0 Present\par\pard\li3797\ri3626\qc\sl-286\f9\fs28\b0\expnd0\expndtw1\up2\charscalex100 \'91\f13\expnd0\expndtw0 P\expnd0\expndtw-2 h\expnd0\expndtw1 a\expnd0\expndtw0 r\expnd-1\expndtw-4 m\expnd0\expndtw1 a\expnd0\expndtw0 Fi\expnd-1\expndtw-3 v\expnd0\expndtw1 e\f9\expnd0\expndtw0 \'92\up0\par\pard\sl-130\sb4\fs13\par\pard\sl-200\fs20\par
+{\shp{\*\shpinst
+\shpleft1771\shptop-26\shpright10470\shpbottom-6
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid70\shpz4
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7365}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst
+\shpleft1771\shptop314\shpright10470\shpbottom334
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid71\shpz5
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7365}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li513\ri-20\sl240\slmult1\f11\fs24\b1\expnd0\expndtw0\charscalex100 J\expnd0\expndtw1 o\expnd0\expndtw0 b\expnd0\expndtw-1  \expnd0\expndtw0 S\expnd0\expndtw-1 u\expnd0\expndtw0 mmary\b0\par\pard\li1255\fi-360\ri537\sl240\slmult1\sb39\tx1180\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\fs24\up1\charscalex100 Re\expnd0\expndtw-1 s\expnd0\expndtw0 pon\expnd0\expndtw-1 s\expnd0\expndtw0 i\expnd0\expndtw-1 b\expnd0\expndtw0 le\expnd-2\expndtw-9  \expnd0\expndtw0 for\expnd0\expndtw-2  \expnd0\expndtw-1 m\expnd0\expndtw0 anaging\expnd0\expndtw-2  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd0\expndtw0 plete\expnd-1\expndtw-4  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd-1\expndtw-3 d\expnd0\expndtw0 u\expnd0\expndtw-2 c\expnd0\expndtw0 t\expnd-1\expndtw-4  \expnd0\expndtw0 li\expnd0\expndtw-1 f\expnd0\expndtw0 e\expnd0\expndtw0  \expnd0\expndtw-1 c\expnd0\expndtw1 y\expnd0\expndtw-1 c\expnd0\expndtw0 le\expnd0\expndtw1  \expnd0\expndtw1 o\expnd0\expndtw0 f\expnd0\expndtw-1  \expnd0\expndtw0 Ca\expnd0\expndtw-1 d\expnd0\expndtw0 ee\f13  \up0 (Ca\expnd0\expndtw-1 l\expnd0\expndtw-1 c\expnd0\expndtw0 i\expnd0\expndtw-1 u\expnd0\expndtw0 m\expnd0\expndtw-2  \expnd0\expndtw0 pl\expnd0\expndtw-1 u\expnd0\expndtw0 s\expnd0\expndtw1  \expnd0\expndtw0 V\expnd0\expndtw-1 i\expnd0\expndtw1 t\expnd0\expndtw0 a\expnd0\expndtw-1 m\expnd0\expndtw0 in\expnd0\expndtw-2  \expnd0\expndtw-1 D\expnd0\expndtw0 )\expnd0\expndtw-2  \expnd0\expndtw-1 T\expnd0\expndtw1 o\expnd0\expndtw0 pzol\expnd-1\expndtw-7  \expnd0\expndtw-1 (\expnd0\expndtw-1 P\expnd0\expndtw0 ant\expnd0\expndtw1 o\expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw0 az\expnd0\expndtw1 o\expnd0\expndtw0 le)\expnd-1\expndtw-4  \expnd0\expndtw0 Ae\expnd0\expndtw1 r\expnd0\expndtw-1 o\expnd0\expndtw1 t\expnd0\expndtw0 ec\expnd-2\expndtw-8  \expnd0\expndtw0 (\expnd0\expndtw-2 D\expnd0\expndtw0 i\expnd0\expndtw-1 c\expnd0\expndtw0 l\expnd0\expndtw1 o\expnd0\expndtw0 fe\expnd0\expndtw-1 n\expnd0\expndtw2 a\expnd0\expndtw0 c\f13  \expnd0\expndtw-1 P\expnd0\expndtw0 l\expnd0\expndtw-1 u\expnd0\expndtw0 s\expnd0\expndtw-2  \expnd0\expndtw1 M\expnd0\expndtw0 i\expnd0\expndtw-1 s\expnd0\expndtw1 o\expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw1 o\expnd0\expndtw0 l)\expnd-2\expndtw-10  \expnd0\expndtw-1 G\expnd0\expndtw0 e\expnd0\expndtw2 m\expnd0\expndtw1 g\expnd0\expndtw0 ex\expnd0\expndtw-2  \expnd0\expndtw0 (\expnd0\expndtw0  \expnd0\expndtw-1 G\expnd0\expndtw0 em\expnd0\expndtw-1 i\expnd0\expndtw0 f\expnd0\expndtw-1 l\expnd0\expndtw1 o\expnd0\expndtw1 x\expnd0\expndtw0 a\expnd0\expndtw-1 c\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd1\expndtw3 )\expnd0\expndtw0 .\par\pard\li1255\fi-360\ri348\sl240\slmult1\sb7\tx1180\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\fs24\up1\charscalex100 C\expnd0\expndtw1 o\expnd0\expndtw1 o\expnd0\expndtw1 r\expnd0\expndtw0 di\expnd0\expndtw-1 n\expnd0\expndtw0 a\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-7  \expnd0\expndtw-1 w\expnd0\expndtw0 ith\expnd0\expndtw-2  \expnd0\expndtw0 the\expnd0\expndtw-2  \expnd0\expndtw-1 m\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw1 k\expnd0\expndtw0 e\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-4  \expnd0\expndtw1 t\expnd0\expndtw0 eam\expnd-1\expndtw-4  \expnd0\expndtw0 a\expnd0\expndtw-1 n\expnd0\expndtw0 d\expnd0\expndtw-1  \expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw-1 d\expnd0\expndtw0 u\expnd0\expndtw-2 c\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-7  \expnd0\expndtw-1 m\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw1 k\expnd0\expndtw0 et\expnd0\expndtw-1  \expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 e\expnd0\expndtw-2 a\expnd0\expndtw1 r\expnd0\expndtw-1 c\expnd0\expndtw0 h\f13  \up0 for\expnd0\expndtw-2  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw1 r\expnd0\expndtw0 equ\expnd-1\expndtw-3 i\expnd0\expndtw1 r\expnd0\expndtw0 eme\expnd0\expndtw-1 n\expnd0\expndtw0 t\expnd-1\expndtw-5  \expnd0\expndtw1 o\expnd0\expndtw0 f\expnd-1\expndtw-4  \expnd0\expndtw0 new\expnd0\expndtw-1  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw0 t\expnd-1\expndtw-4  \expnd0\expndtw0 and\expnd-1\expndtw-5  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 pon\expnd0\expndtw-1 s\expnd0\expndtw0 e\expnd-1\expndtw-7  \expnd0\expndtw1 t\expnd0\expndtw1 o\expnd0\expndtw-1 w\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw0 ds\expnd-1\expndtw-7  \expnd0\expndtw1 o\expnd0\expndtw0 ur\f13  e\expnd0\expndtw1 x\expnd0\expndtw0 i\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-1  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw1 t\expnd0\expndtw-1 s\expnd0\expndtw0 .\par\pard\li895\ri-20\sl240\slmult1\sb9\tx1180\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\fs24\expnd0\expndtw-1\up1\charscalex100 D\expnd0\expndtw0 e\expnd0\expndtw-1 c\expnd0\expndtw0 id\expnd0\expndtw-1 i\expnd0\expndtw0 ng\expnd-1\expndtw-7  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw0 pri\expnd0\expndtw-1 c\expnd0\expndtw0 e\expnd0\expndtw-2  \expnd0\expndtw1 o\expnd0\expndtw0 f\expnd0\expndtw-1  \expnd0\expndtw0 the\expnd0\expndtw0  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw1 t\expnd0\expndtw0 .\up0\par\pard\li895\ri-20\sl240\slmult1\sb9\tx1180\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\fs24\expnd0\expndtw1\up1\charscalex100 M\expnd0\expndtw0 a\expnd0\expndtw1 k\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-1  \expnd0\expndtw-1 m\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw-1 k\expnd0\expndtw0 e\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-1  \expnd0\expndtw0 pl\expnd-1\expndtw-3 a\expnd0\expndtw0 ns\expnd-1\expndtw-3  \expnd0\expndtw0 and\expnd-1\expndtw-5  \expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw1 r\expnd0\expndtw0 a\expnd0\expndtw1 t\expnd0\expndtw0 e\expnd0\expndtw1 g\expnd0\expndtw1 y\expnd0\expndtw0 .\up0\par\pard\li895\ri-20\sl240\slmult1\sb11\tx1180\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\fs24\expnd0\expndtw1\up1\charscalex100 M\expnd0\expndtw0 a\expnd0\expndtw1 k\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-1  \expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw1 r\expnd0\expndtw-2 a\expnd0\expndtw1 t\expnd0\expndtw0 e\expnd0\expndtw-1 g\expnd0\expndtw0 y\expnd0\expndtw0  \expnd0\expndtw0 for\expnd-1\expndtw-4  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw-1 c\expnd0\expndtw0 a\expnd0\expndtw-1 m\expnd0\expndtw0 paigni\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-3  \expnd0\expndtw1 o\expnd0\expndtw0 f\expnd0\expndtw-1  \expnd0\expndtw0 the\expnd0\expndtw0  \expnd0\expndtw0 new\expnd0\expndtw-1  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw1 t\expnd0\expndtw0 .\up0\par\pard\li895\ri-20\sl240\slmult1\sb11\tx1180\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f9\fs24\up1\charscalex100 Taking\expnd0\expndtw0  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw1 r\expnd0\expndtw0 ep\expnd0\expndtw-1 o\expnd0\expndtw1 r\expnd0\expndtw0 t\expnd0\expndtw-2  \expnd0\expndtw1 o\expnd0\expndtw0 f\expnd0\expndtw0  \expnd0\expndtw-2 c\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd0\expndtw0 pe\expnd0\expndtw1 t\expnd0\expndtw0 it\expnd0\expndtw1 o\expnd0\expndtw1 r\expnd0\expndtw-1 s\expnd0\expndtw0 \'92\expnd0\expndtw0  \expnd0\expndtw0 acti\expnd0\expndtw1 v\expnd-1\expndtw-3 i\expnd0\expndtw1 t\expnd0\expndtw0 y\expnd0\expndtw1  \expnd0\expndtw0 in\expnd0\expndtw-1  \expnd0\expndtw-1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw-1 m\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw1 k\expnd0\expndtw0 e\expnd0\expndtw1 t\expnd0\expndtw0 .\up0\par\pard\li895\ri-20\sl240\slmult1\sb11\tx1180\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\fs24\expnd0\expndtw1\up1\charscalex100 M\expnd0\expndtw0 anaging\expnd0\expndtw-2  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw0 pa\expnd0\expndtw-2 r\expnd0\expndtw1 t\expnd0\expndtw0 ne\expnd0\expndtw1 r\expnd-1\expndtw-3 s\expnd0\expndtw0 h\expnd0\expndtw-1 i\expnd0\expndtw0 p\expnd0\expndtw-1  \expnd0\expndtw-1 w\expnd0\expndtw0 ith\expnd0\expndtw-2  \expnd0\expndtw0 v\expnd0\expndtw1 e\expnd0\expndtw0 n\expnd0\expndtw-1 d\expnd0\expndtw1 o\expnd0\expndtw1 r\expnd0\expndtw-1 s\expnd0\expndtw0 ,\expnd-2\expndtw-8  \expnd0\expndtw-1 s\expnd0\expndtw0 u\expnd0\expndtw1 p\expnd0\expndtw0 pl\expnd0\expndtw-1 i\expnd0\expndtw0 e\expnd0\expndtw1 r\expnd0\expndtw-1 s\expnd0\expndtw0 ,\expnd0\expndtw-2  \expnd0\expndtw0 and\expnd-1\expndtw-5  \expnd0\expndtw0 deale\expnd0\expndtw1 r\expnd0\expndtw-1 s\expnd0\expndtw0 .\up0\par\pard\li895\ri-20\sl240\slmult1\sb9\tx1180\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\fs24\up1\charscalex100 C\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw-1 d\expnd0\expndtw0 u\expnd0\expndtw-2 c\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-7  \expnd0\expndtw1 t\expnd0\expndtw1 r\expnd0\expndtw0 ai\expnd0\expndtw1 n\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw1  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw-1 g\expnd0\expndtw1 r\expnd0\expndtw0 am\expnd-1\expndtw-6  \expnd0\expndtw0 for\expnd0\expndtw-2  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw0 aff\expnd0\expndtw-2  \expnd0\expndtw0 a\expnd-1\expndtw-3 n\expnd0\expndtw0 d\expnd0\expndtw-1  \expnd0\expndtw-1 w\expnd0\expndtw1 o\expnd0\expndtw1 r\expnd0\expndtw1 k\expnd0\expndtw0 e\expnd0\expndtw1 r\expnd0\expndtw-1 s\expnd0\expndtw0 .\up0\par\sect\sectd\sbkpage\marglsxn1700\margrsxn1680\margtsxn500\cols1\colno1\colw8860\pard\li535\ri-20\sl240\slmult1\sb49\tx820\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\fs24\up1\charscalex100 Che\expnd0\expndtw-1 c\expnd0\expndtw1 k\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-4  \expnd0\expndtw1 t\expnd0\expndtw0 hat\expnd0\expndtw0  \expnd0\expndtw0 all\expnd0\expndtw0  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd-1\expndtw-3 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw-1 c\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 s\expnd-1\expndtw-7  \expnd0\expndtw0 is\expnd-1\expndtw-3  \expnd0\expndtw1 g\expnd0\expndtw1 o\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw0  \expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw-1  \expnd0\expndtw0 as\expnd-1\expndtw-3  \expnd0\expndtw0 per\expnd0\expndtw1  \expnd0\expndtw1 r\expnd0\expndtw0 u\expnd0\expndtw-1 l\expnd0\expndtw0 es\expnd-1\expndtw-3  \expnd0\expndtw0 and\expnd-1\expndtw-5  \expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw1 g\expnd0\expndtw0 u\expnd0\expndtw-1 l\expnd0\expndtw0 a\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw1 o\expnd-1\expndtw-3 n\expnd0\expndtw-1 s\expnd0\expndtw0 .\up0\par\pard\li535\ri-20\sl240\slmult1\sb11\tx820\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\fs24\up1\charscalex100 Rep\expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 enti\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-4  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd-1\expndtw-3 p\expnd0\expndtw0 any\expnd-1\expndtw-4  \expnd0\expndtw0 in\expnd0\expndtw0  \expnd0\expndtw-1 f\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 nt\expnd0\expndtw-1  \expnd0\expndtw1 o\expnd0\expndtw0 f\expnd0\expndtw-1  \expnd0\expndtw-2 c\expnd0\expndtw0 lie\expnd0\expndtw-1 n\expnd0\expndtw1 t\expnd0\expndtw-1 s\expnd0\expndtw0 ,\expnd0\expndtw-2  \expnd0\expndtw1 v\expnd0\expndtw0 endo\expnd0\expndtw1 r\expnd0\expndtw0 s\expnd-2\expndtw-10  \expnd0\expndtw0 and\expnd-1\expndtw-5  \expnd0\expndtw-1 s\expnd0\expndtw0 u\expnd0\expndtw-1 p\expnd0\expndtw0 pl\expnd0\expndtw-1 i\expnd0\expndtw0 e\expnd0\expndtw1 r\expnd0\expndtw-1 s\expnd0\expndtw0 .\up0\par\pard\li895\fi-360\ri159\sl240\slmult1\sb11\tx820\f12\fs16\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\fs24\expnd0\expndtw-1\up1\charscalex100 S\expnd0\expndtw0 ug\expnd0\expndtw1 g\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-2  \expnd0\expndtw0 and\expnd-1\expndtw-5  \expnd0\expndtw1 t\expnd0\expndtw0 a\expnd0\expndtw1 k\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-2  \expnd0\expndtw0 appr\expnd0\expndtw1 o\expnd0\expndtw1 v\expnd0\expndtw0 al\expnd-1\expndtw-3  \expnd0\expndtw-1 f\expnd0\expndtw-1 o\expnd0\expndtw0 r\expnd0\expndtw0  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw-1 n\expnd0\expndtw0 ew\expnd-1\expndtw-4  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw0 t\expnd-1\expndtw-4  \expnd0\expndtw0 and\expnd-1\expndtw-5  \expnd0\expndtw0 i\expnd0\expndtw-1 m\expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd-1\expndtw-3 m\expnd0\expndtw0 ent\expnd-2\expndtw-9  \expnd0\expndtw0 in\f13  \expnd0\expndtw1\up0 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw0 e\expnd0\expndtw1 x\expnd0\expndtw0 i\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-1  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw1 t\expnd0\expndtw-1 s\expnd0\expndtw0 .\par\pard\sl-110\sb2\fs11\par\pard\sl-200\fs20\par\sect\sectd\sbknone\marglsxn1700\margrsxn1680\cols2\colno1\colw1239\colsr16\colno2\colw7605
+{\shp{\*\shpinst
+\shpleft1771\shptop-8\shpright10470\shpbottom11
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid129\shpz7
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 19}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst
+\shpleft1771\shptop330\shpright10470\shpbottom350
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid130\shpz8
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li100\ri-76\sl240\slmult1\sb18\f11\fs24\b1\expnd0\expndtw0\charscalex100 Key\expnd-1\expndtw-3  \expnd0\expndtw0 Sk\expnd0\expndtw-1 i\expnd0\expndtw0 l\expnd0\expndtw-1 l\expnd0\expndtw0 s\b0\charscalex100\par\pard\sl-130\sb4 \column \fs13\par\pard\sl-200\fs20\par\pard\ri-20\sl240\slmult1\f15\fs14\b0\expnd0\expndtw0\charscalex100 \uc1\u61656 ?\f0\expnd0\expndtw0    \expnd7\expndtw34  \f13\fs24\expnd0\expndtw0\up2 Team\expnd-1\expndtw-7  \expnd0\expndtw0 ha\expnd0\expndtw-1 n\expnd0\expndtw0 dl\expnd0\expndtw-1 i\expnd0\expndtw0 ng.\up0\par\pard\ri-20\sl240\slmult1\sb1\f15\fs14\b0\expnd0\expndtw0\charscalex100 \uc1\u61656 ?\f0\expnd0\expndtw0    \expnd7\expndtw34  \f13\fs24\expnd0\expndtw0\up2 Team\expnd-1\expndtw-7  \expnd0\expndtw1 t\expnd0\expndtw1 r\expnd0\expndtw0 ai\expnd0\expndtw-1 n\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw1  \expnd0\expndtw0 &\expnd0\expndtw-2  \expnd0\expndtw0 De\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd0\expndtw-2 l\expnd0\expndtw1 o\expnd0\expndtw0 p\expnd0\expndtw-1 m\expnd0\expndtw0 ent.\up0\par\pard\ri-20\sl-298\f15\fs14\b0\expnd0\expndtw0\dn1\charscalex100 \uc1\u61656 ?\f0\expnd0\expndtw0    \expnd7\expndtw34  \f13\fs24\expnd0\expndtw0\up1 C\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw-1 d\expnd0\expndtw0 u\expnd0\expndtw-2 c\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-7  \expnd0\expndtw0 RT\expnd0\expndtw-1 D\expnd0\expndtw-1 s\expnd0\expndtw0 ,\expnd-1\expndtw-6  \expnd0\expndtw0 W\expnd0\expndtw2 a\expnd0\expndtw1 r\expnd0\expndtw0 d\expnd0\expndtw-1  \expnd0\expndtw-1 P\expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 enta\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw-1 s\expnd0\expndtw0 ,\expnd-1\expndtw-7  \expnd0\expndtw0 &\expnd0\expndtw-2  \expnd0\expndtw-2 C\expnd0\expndtw1 M\expnd0\expndtw0 Es\up0\charscalex100\par\pard\ri-20\sl-298\f15\fs14\b0\expnd0\expndtw0\dn1\charscalex100 \uc1\u61656 ?\f0\expnd0\expndtw0    \expnd7\expndtw34  \f13\fs24\expnd0\expndtw0\up1 Inn\expnd0\expndtw1 o\expnd0\expndtw1 v\expnd0\expndtw0 a\expnd0\expndtw1 t\expnd-1\expndtw-3 i\expnd0\expndtw1 v\expnd0\expndtw0 e.\up0\par\pard\ri-20\sl-298\f15\fs14\b0\expnd0\expndtw0\dn1\charscalex100 \uc1\u61656 ?\f0\expnd0\expndtw0    \expnd7\expndtw34  \f13\fs24\expnd0\expndtw-1\up1 P\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw0 t\expnd-1\expndtw-4  \expnd0\expndtw0 de\expnd0\expndtw-1 s\expnd0\expndtw0 ign\expnd0\expndtw-1 i\expnd0\expndtw0 ng.\up0\par\pard\ri-20\sl240\slmult1\sb1\f15\fs14\b0\expnd0\expndtw0\charscalex100 \uc1\u61656 ?\f0\expnd0\expndtw0    \expnd7\expndtw34  \f13\fs24\expnd0\expndtw-1\up2 P\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw0 t\expnd-1\expndtw-4  \expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-2  \expnd0\expndtw0 and\expnd-1\expndtw-5  \expnd0\expndtw0 b\expnd0\expndtw-2 u\expnd0\expndtw0 dge\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw1 g\expnd0\expndtw0 .\up0\par\pard\ri-20\sl-298\f15\fs14\b0\expnd0\expndtw0\dn1\charscalex100 \uc1\u61656 ?\f0\expnd0\expndtw0    \expnd7\expndtw34  \f13\fs24\expnd0\expndtw0\up1 La\expnd0\expndtw-1 u\expnd0\expndtw0 n\expnd0\expndtw-1 c\expnd0\expndtw0 h\expnd0\expndtw1 i\expnd0\expndtw0 ng\expnd-1\expndtw-7  \expnd0\expndtw0 and\expnd-1\expndtw-4  \expnd0\expndtw-1 m\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw1 k\expnd0\expndtw0 e\expnd0\expndtw-1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw-1  \expnd0\expndtw1 o\expnd0\expndtw0 f\expnd0\expndtw-1  \expnd0\expndtw0 the\expnd0\expndtw0  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd0\expndtw-1 u\expnd0\expndtw-1 c\expnd0\expndtw1 t\expnd0\expndtw-1 s\expnd0\expndtw0 .\up0\par\pard\ri-20\sl-298\f15\fs14\b0\expnd0\expndtw0\dn1\charscalex100 \uc1\u61656 ?\f0\expnd0\expndtw0    \expnd7\expndtw34  \f13\fs24\expnd0\expndtw-1\up1 G\expnd0\expndtw1 o\expnd0\expndtw1 o\expnd0\expndtw0 d\expnd-1\expndtw-4  \expnd0\expndtw-1 m\expnd0\expndtw0 anagement\expnd0\expndtw-2  \expnd0\expndtw0 skil\expnd0\expndtw-1 l\expnd0\expndtw-1 s\expnd0\expndtw0 .\up0\par\pard\ri-20\sl-287\sb1\f15\fs14\b0\expnd0\expndtw0\dn2\charscalex100 \uc1\u61656 ?\f0\expnd0\expndtw0    \expnd7\expndtw34  \f13\fs24\expnd0\expndtw0\up0 C\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd0\expndtw0 fo\expnd0\expndtw1 r\expnd0\expndtw1 t\expnd0\expndtw0 a\expnd0\expndtw-1 b\expnd0\expndtw0 le\expnd-1\expndtw-7  \expnd0\expndtw0 in\expnd0\expndtw-1  \expnd0\expndtw1 t\expnd0\expndtw1 r\expnd0\expndtw-2 a\expnd0\expndtw1 v\expnd0\expndtw0 ell\expnd-1\expndtw-3 i\expnd0\expndtw0 n\expnd0\expndtw1 g\f14\fs21\expnd0\expndtw0 .\par\sect\sectd\sbknone\marglsxn1700\margrsxn1680\cols1\colno1\colw8860\pard\sl-170\sb3\fs17\par\pard\sl-200\fs20\par
+{\shp{\*\shpinst
+\shpleft1771\shptop-8\shpright10470\shpbottom11
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid131\shpz9
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 19}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst
+\shpleft1771\shptop330\shpright10470\shpbottom350
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid132\shpz10
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7365}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li100\ri-20\sl-282\sb18\f11\fs24\b1\expnd0\expndtw0\charscalex100 Pr\expnd0\expndtw1 o\expnd0\expndtw0 fe\expnd0\expndtw-1 s\expnd0\expndtw-1 s\expnd0\expndtw0 ional\expnd0\expndtw-2  \expnd0\expndtw0 Exper\expnd0\expndtw-1 i\expnd0\expndtw0 e\expnd0\expndtw2 n\expnd0\expndtw-1 c\expnd0\expndtw0 e\b0\par\pard\sl-100\sb10\fs10\par\pard\sl-200\fs20\par\pard\li478\ri479\qc\sl240\slmult1\sb13\tx5300\f11\fs24\b1\expnd0\expndtw0\charscalex100 Sa\expnd0\expndtw-1 l\expnd0\expndtw0 es\expnd-1\expndtw-7  \expnd0\expndtw0 Manager\expnd-2\expndtw-8  \expnd0\expndtw1 K\expnd0\expndtw0 enya\tab \f13\b0\charscalex100 J\expnd0\expndtw-1 u\expnd0\expndtw0 ly\expnd0\expndtw0  \expnd0\expndtw0 2013\expnd0\expndtw0  \expnd0\expndtw1 t\expnd0\expndtw0 o\expnd0\expndtw0  \expnd0\expndtw0 No\expnd0\expndtw2 v\expnd0\expndtw0 em\expnd0\expndtw-1 b\expnd0\expndtw0 er\expnd-1\expndtw-6  \expnd0\expndtw0 2014\par\pard\li2869\ri2868\qc\sl240\slmult1\sb45\f9\fs24\b0\expnd0\expndtw0\charscalex100 \'91P\expnd0\expndtw-1 h\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw-1 m\expnd0\expndtw0 e\expnd0\expndtw1 v\expnd0\expndtw0 o\expnd0\expndtw1  \expnd0\expndtw-1 P\expnd0\expndtw0 harma\expnd0\expndtw-1 c\expnd0\expndtw0 euti\expnd0\expndtw-1 c\expnd0\expndtw0 al\expnd0\expndtw-1 s\expnd0\expndtw0 \'92\par\pard\li520\ri-20\sl240\slmult1\sb45\tx5340\f11\fs24\b1\expnd0\expndtw0\charscalex100 Area\expnd-1\expndtw-5  \expnd0\expndtw0 Sa\expnd0\expndtw-1 l\expnd0\expndtw0 es\expnd-1\expndtw-7  \expnd0\expndtw0 Manager\tab \f13\b0\expnd0\expndtw1\charscalex100 M\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw-1 c\expnd0\expndtw0 h\expnd-1\expndtw-3  \expnd0\expndtw0 2010\expnd0\expndtw0  \expnd0\expndtw0 to\expnd0\expndtw1  \expnd0\expndtw0 J\expnd0\expndtw-1 u\expnd0\expndtw0 ne\expnd0\expndtw0  \expnd0\expndtw0 2013\par\pard\li2869\ri2868\qc\sl240\slmult1\sb45\f9\fs24\b0\expnd0\expndtw0\charscalex100 \'91P\expnd0\expndtw-1 h\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw-1 m\expnd0\expndtw0 e\expnd0\expndtw1 v\expnd0\expndtw0 o\expnd0\expndtw1  \expnd0\expndtw-1 P\expnd0\expndtw0 harma\expnd0\expndtw-1 c\expnd0\expndtw0 euti\expnd0\expndtw-1 c\expnd0\expndtw0 al\expnd0\expndtw-1 s\expnd0\expndtw0 \'92\par\pard\li520\ri-20\sl240\slmult1\sb45\tx5480\f11\fs24\b1\expnd0\expndtw0\charscalex100 Area\expnd-1\expndtw-5  \expnd0\expndtw0 Manager\tab \f13\b0\expnd0\expndtw1\charscalex100 O\expnd0\expndtw-1 c\expnd0\expndtw0 t\expnd0\expndtw0  \expnd0\expndtw0 2009\expnd0\expndtw0  \expnd0\expndtw1 t\expnd0\expndtw0 o\expnd-1\expndtw-3  \expnd0\expndtw1 F\expnd0\expndtw0 eb\expnd0\expndtw0  \expnd0\expndtw0 2010\par\pard\li3044\ri3044\qc\sl240\slmult1\sb42\f9\fs24\b0\expnd0\expndtw0\charscalex100 \'91\expnd0\expndtw1 K\expnd0\expndtw0 aizen\expnd0\expndtw0  \expnd0\expndtw-1 P\expnd0\expndtw0 harma\expnd0\expndtw-1 c\expnd0\expndtw0 euti\expnd0\expndtw-1 c\expnd0\expndtw2 a\expnd0\expndtw0 ls\'92\par\pard\li460\ri-20\sl240\slmult1\sb45\tx5520\f11\fs24\b1\expnd0\expndtw0\charscalex100 Area\expnd-1\expndtw-5  \expnd0\expndtw0 Sa\expnd0\expndtw-1 l\expnd0\expndtw0 es\expnd-1\expndtw-7  \expnd0\expndtw0 Manager\tab \f13\b0\expnd0\expndtw1\charscalex100 M\expnd0\expndtw0 ar\expnd0\expndtw-1  \expnd0\expndtw0 2008\expnd0\expndtw0  \expnd0\expndtw-1 t\expnd0\expndtw0 o\expnd0\expndtw0  \expnd0\expndtw-1 S\expnd0\expndtw0 ep\expnd0\expndtw-1  \expnd0\expndtw0 2009\par\pard\li3008\ri3008\qc\sl240\slmult1\sb45\f9\fs24\b0\expnd0\expndtw0\charscalex100 \'91Bi\expnd0\expndtw1 o\expnd0\expndtw0 V\expnd0\expndtw-1 i\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw0 a\expnd0\expndtw0  \expnd0\expndtw0 Ne\expnd0\expndtw-1 u\expnd0\expndtw1 t\expnd0\expndtw1 r\expnd0\expndtw0 a\expnd0\expndtw-1 c\expnd0\expndtw0 eut\expnd0\expndtw2 i\f13\expnd0\expndtw-1\charscalex99 c\expnd0\expndtw0 al\expnd0\expndtw-1 s\f9\expnd0\expndtw0\charscalex100 \'92\par\pard\li460\ri-20\sl240\slmult1\sb45\tx5300\f11\fs24\b1\expnd0\expndtw0\charscalex100 Area\expnd-1\expndtw-5  \expnd0\expndtw0 Manager\tab \f13\b0\expnd0\expndtw1\charscalex100 M\expnd0\expndtw0 ar\expnd0\expndtw-1  \expnd0\expndtw0 2007\expnd0\expndtw0  \expnd0\expndtw-1 t\expnd0\expndtw0 o\expnd0\expndtw0  \expnd0\expndtw1 F\expnd0\expndtw0 eb\expnd0\expndtw0  \expnd0\expndtw0 2\expnd-1\expndtw-3 0\expnd0\expndtw0 08\par\pard\li3070\ri3068\qc\sl240\slmult1\sb45\f9\fs24\b0\expnd0\expndtw0\charscalex100 \'91Hilt\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw0  \expnd0\expndtw-1 P\expnd0\expndtw0 harma\expnd0\expndtw-1 c\expnd0\expndtw0 euti\expnd0\expndtw-1 c\expnd0\expndtw2 a\expnd0\expndtw0 ls\'92\par\pard\li400\ri-20\sl240\slmult1\sb45\tx5600\f11\fs24\b1\expnd0\expndtw0\charscalex100 Med\expnd0\expndtw-1 i\expnd0\expndtw-1 c\expnd0\expndtw0 al\expnd-1\expndtw-7  \expnd0\expndtw-1 S\expnd0\expndtw2 a\expnd0\expndtw0 les\expnd-1\expndtw-7  \expnd0\expndtw0 Re\expnd0\expndtw-1 p\expnd0\expndtw2 r\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 en\expnd0\expndtw-1 t\expnd0\expndtw0 at\expnd0\expndtw-1 i\expnd0\expndtw1 v\expnd0\expndtw0 e\tab \f13\b0\charscalex100 Aug\expnd0\expndtw1  \expnd0\expndtw0 2002\expnd0\expndtw0  \f9\expnd0\expndtw0 \'96\expnd0\expndtw-2  \f13\expnd0\expndtw1 F\expnd0\expndtw0 EB\expnd0\expndtw-1  \expnd0\expndtw0 2007\par\pard\li3761\ri3758\qc\sl240\slmult1\sb45\f9\fs24\b0\expnd0\expndtw0\charscalex100 \'91R\expnd0\expndtw1 o\expnd0\expndtw-1 c\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw-1 P\expnd0\expndtw0 a\expnd0\expndtw1 k\expnd0\expndtw0 \'92\par\pard\sl-130\sb3\fs13\par\pard\sl-200\fs20\par
+{\shp{\*\shpinst
+\shpleft1771\shptop-7\shpright10470\shpbottom12
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid133\shpz11
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 19}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7365}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst
+\shpleft1771\shptop312\shpright10470\shpbottom332
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid134\shpz12
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li100\ri-20\sl-282\f11\fs24\b1\expnd0\expndtw0\charscalex100 Train\expnd0\expndtw-1 i\expnd0\expndtw0 ng\expnd-1\expndtw-4  \expnd0\expndtw0 &\expnd0\expndtw-1  \expnd0\expndtw-1 D\expnd0\expndtw0 e\expnd0\expndtw1 v\expnd0\expndtw0 elopment\b0\par\pard\sl-280\sb2\fs28\par\pard\li820\ri-20\sl240\slmult1\sb15\tx1180\f12\fs24\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\charscalex100 A\expnd0\expndtw1 r\expnd0\expndtw0 ea\expnd-1\expndtw-3  \expnd0\expndtw1 M\expnd0\expndtw0 ana\expnd0\expndtw1 g\expnd0\expndtw0 eme\expnd0\expndtw-1 n\expnd0\expndtw0 t\expnd-1\expndtw-7  \expnd0\expndtw0 pl\expnd-1\expndtw-3 a\expnd0\expndtw0 n\expnd0\expndtw-1 n\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw1  \expnd0\expndtw1 t\expnd0\expndtw1 r\expnd0\expndtw0 ai\expnd0\expndtw-1 n\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd0\expndtw1  \expnd0\expndtw-1 w\expnd0\expndtw0 ith\expnd0\expndtw-2  \expnd0\expndtw-1 P\expnd0\expndtw2 h\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw-1 m\expnd0\expndtw0 e\expnd0\expndtw1 v\expnd0\expndtw1 o\expnd0\expndtw0 .\par\pard\li820\ri-20\sl240\slmult1\tx1180\tx2600\tx3740\tx5080\tx6360\tx7300\tx8040\f12\fs24\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\charscalex100 C\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd0\expndtw0 pleted\expnd0\expndtw0\charscalex100 \tab \f16\i1\charscalex100 \'91Ef\expnd0\expndtw1 f\expnd0\expndtw0 e\expnd0\expndtw1 c\expnd0\expndtw0 tive\tab \expnd0\expndtw1\charscalex100 S\expnd0\expndtw0 itu\expnd0\expndtw-1 a\expnd0\expndtw0 ti\expnd0\expndtw-1 o\expnd0\expndtw1 n\expnd0\expndtw-1 a\expnd0\expndtw0 l\tab \charscalex100 leadersh\expnd1\expndtw3 i\expnd0\expndtw0 p\'92\tab \f13\i0\expnd0\expndtw-1\charscalex100 c\expnd0\expndtw1 o\expnd0\expndtw0 urse\expnd0\expndtw0\charscalex100 \tab \expnd0\expndtw-1\charscalex100 w\expnd0\expndtw0 ith\tab \charscalex100 H\expnd0\expndtw-1 i\expnd0\expndtw2 l\expnd0\expndtw1 t\expnd0\expndtw1 o\expnd0\expndtw0 n\par\pard\li1180\ri-20\sl240\slmult1\sb1\f13\fs24\b0\expnd0\expndtw-1\charscalex100 P\expnd0\expndtw0 harma\expnd0\expndtw-1 c\expnd0\expndtw0 euti\expnd0\expndtw-1 c\expnd0\expndtw0 a\expnd0\expndtw2 l\expnd0\expndtw-1 s\expnd0\expndtw0 .\par\pard\li820\ri-20\sl-308\tx1180\f12\fs24\b0\expnd0\expndtw0\up1\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\charscalex100 C\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd0\expndtw0 pleted\expnd-1\expndtw-7  \f16\i1\expnd0\expndtw0 \'91Team\expnd0\expndtw0  \expnd0\expndtw0 manageme\expnd0\expndtw1 n\expnd0\expndtw0 t\'92\expnd0\expndtw0  \f13\i0\expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw0 urse\expnd-1\expndtw-7  \expnd0\expndtw-1 w\expnd0\expndtw0 ith\expnd0\expndtw-2  \expnd0\expndtw-1 H\expnd0\expndtw0 ilt\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw0  \expnd0\expndtw-1 P\expnd0\expndtw0 harma\expnd0\expndtw-1 c\expnd0\expndtw0 euti\expnd0\expndtw-1 c\expnd0\expndtw0 al\expnd0\expndtw-1 s\expnd0\expndtw0 .\up0\par\pard\li820\ri-20\sl240\slmult1\tx1180\f12\fs24\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\charscalex100 C\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd0\expndtw0 pleted\expnd-1\expndtw-7  \f16\i1\expnd0\expndtw0 \'91M\expnd0\expndtw-1 a\expnd0\expndtw1 n\expnd0\expndtw-1 a\expnd0\expndtw0 ger\expnd0\expndtw1 i\expnd0\expndtw-1 a\expnd0\expndtw0 l\expnd0\expndtw0  \expnd0\expndtw0 skil\expnd0\expndtw1 l\expnd0\expndtw0 s\'92\expnd0\expndtw1  \f13\i0\expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw0 urse\expnd-1\expndtw-7  \expnd0\expndtw-1 w\expnd0\expndtw0 ith\expnd0\expndtw-2  \expnd0\expndtw-1 H\expnd0\expndtw0 ilt\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw0  \expnd0\expndtw-1 P\expnd0\expndtw0 harma\expnd0\expndtw-1 c\expnd0\expndtw0 euti\expnd0\expndtw-1 c\expnd0\expndtw0 al\expnd0\expndtw-1 s\expnd0\expndtw0 .\par\pard\li1180\fi-360\ri55\qj\sl240\slmult1\tx1180\f12\fs24\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\charscalex100 C\f9\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd0\expndtw0 pleted\expnd11\expndtw53  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd11\expndtw55  \expnd0\expndtw1 v\expnd0\expndtw0 a\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw0 ly\expnd11\expndtw53  \expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw1 g\expnd0\expndtw0 n\expnd0\expndtw-1 i\expnd0\expndtw0 zed\expnd11\expndtw55  \expnd1\expndtw4 \'91\f16\i1\expnd0\expndtw0 Rep\expnd11\expndtw55  \expnd0\expndtw-1 o\expnd0\expndtw1 n\expnd0\expndtw0 e\'92\expnd11\expndtw57  \f13\i0\expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw0 urse\expnd10\expndtw48  \expnd0\expndtw0 for\expnd11\expndtw53  \expnd0\expndtw-1 m\expnd0\expndtw0 ed\expnd0\expndtw2 i\expnd0\expndtw-1 c\expnd0\expndtw0 al\expnd10\expndtw51  \expnd0\expndtw1 s\expnd0\expndtw0 ales\f13  \expnd0\expndtw1 r\expnd0\expndtw0 ep\expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 enta\expnd0\expndtw1 t\expnd-1\expndtw-3 i\expnd0\expndtw1 v\expnd0\expndtw0 es\expnd5\expndtw27  \expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw1 v\expnd0\expndtw-2 e\expnd0\expndtw1 r\expnd-1\expndtw-3 i\expnd0\expndtw0 ng\expnd6\expndtw30  \expnd0\expndtw-1 P\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 b\expnd0\expndtw-1 i\expnd0\expndtw0 ng\expnd7\expndtw33  \expnd0\expndtw0 &\expnd6\expndtw29  \expnd0\expndtw0 E\expnd0\expndtw-1 f\expnd0\expndtw0 fe\expnd0\expndtw-1 c\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd5\expndtw27  \expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw-1 m\expnd0\expndtw-1 m\expnd0\expndtw0 u\expnd0\expndtw-1 n\expnd0\expndtw0 i\expnd0\expndtw-1 c\expnd0\expndtw0 a\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd5\expndtw23  \expnd0\expndtw-1 s\expnd0\expndtw1 k\expnd0\expndtw0 il\expnd0\expndtw1 l\expnd0\expndtw0 s\expnd6\expndtw30  \expnd0\expndtw0 at\f13  R\expnd0\expndtw1 o\expnd0\expndtw-1 c\expnd0\expndtw0 he\expnd-1\expndtw-4  \expnd0\expndtw-1 P\expnd0\expndtw0 harma\expnd0\expndtw-1 c\expnd0\expndtw0 euti\expnd0\expndtw-1 c\expnd0\expndtw0 a\expnd0\expndtw2 l\expnd0\expndtw-1 s\expnd0\expndtw0 .\par\sect\sectd\sbkpage\marglsxn1700\margtsxn500\cols1\colno1\colw8820
+{\shp{\*\shpinst
+\shpleft1771\shptop44\shpright10470\shpbottom64
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid160\shpz13
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst
+\shpleft1771\shptop364\shpright10470\shpbottom384
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid161\shpz14
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li100\ri-20\sl-282\sb52\f11\fs24\b1\expnd0\expndtw0\charscalex100 Ac\expnd0\expndtw-1 h\expnd0\expndtw0 ievements\expnd-1\expndtw-5  \expnd0\expndtw0 &\expnd0\expndtw-1  \expnd0\expndtw0 Aw\expnd0\expndtw2 a\expnd0\expndtw0 rds\b0\charscalex100\par\pard\sl-280\sb4\fs28\par\pard\li820\ri-20\sl240\slmult1\sb15\tx1180\f12\fs24\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\charscalex100 Be\expnd0\expndtw-1 s\expnd0\expndtw0 t\expnd-1\expndtw-3  \expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw0 enter\expnd0\expndtw-1  \expnd0\expndtw0 a\expnd0\expndtw-1 w\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw0 d\expnd-1\expndtw-5  \expnd-1\expndtw-3 f\expnd0\expndtw1 o\expnd0\expndtw0 r\expnd0\expndtw0  \expnd0\expndtw-1 s\expnd0\expndtw0 ituati\expnd0\expndtw1 o\expnd0\expndtw0 nal\expnd0\expndtw-2  \expnd0\expndtw0 leade\expnd0\expndtw1 r\expnd0\expndtw-1 s\expnd0\expndtw0 h\expnd-1\expndtw-3 i\expnd0\expndtw0 p.\par\pard\li820\ri-20\sl-308\tx1180\f12\fs24\b0\expnd0\expndtw0\up1\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\charscalex100 Ac\expnd0\expndtw-1 h\expnd0\expndtw0 ie\expnd0\expndtw1 v\expnd0\expndtw0 ed\expnd-2\expndtw-10  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw-1 h\expnd0\expndtw0 ighe\expnd0\expndtw-1 s\expnd0\expndtw0 t\expnd-1\expndtw-3  \expnd0\expndtw1 m\f9\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw1 k\expnd0\expndtw0 s\expnd-1\expndtw-3  \expnd0\expndtw0 in\expnd0\expndtw-1  \expnd0\expndtw1 t\expnd0\expndtw0 he\expnd0\expndtw0  \expnd0\expndtw1 \'91\f16\i1\expnd0\expndtw-1 M\expnd0\expndtw-1 a\expnd0\expndtw1 n\expnd0\expndtw-1 a\expnd0\expndtw0 ger\expnd0\expndtw1 i\expnd0\expndtw-1 a\expnd0\expndtw0 l\expnd0\expndtw0  \expnd0\expndtw0 skil\expnd0\expndtw1 l\expnd0\expndtw0 s\'92\expnd0\expndtw2  \f13\i0\expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw0 urse.\up0\charscalex100\par\pard\li820\ri-20\sl240\slmult1\tx1180\f12\fs24\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\expnd0\expndtw1\charscalex100 F\expnd0\expndtw0 i\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd0\expndtw-2  \expnd0\expndtw0 C\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw-1 s\expnd0\expndtw0 e\expnd0\expndtw-1 c\expnd0\expndtw0 uti\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd-2\expndtw-8  \expnd0\expndtw-1 y\expnd0\expndtw0 ea\expnd0\expndtw1 r\expnd0\expndtw0 s\expnd-1\expndtw-4  \expnd0\expndtw0 an\expnd0\expndtw-1 n\expnd0\expndtw0 ual\expnd0\expndtw-1  \expnd0\expndtw1 t\expnd0\expndtw0 a\expnd0\expndtw1 r\expnd0\expndtw1 g\expnd0\expndtw0 et\expnd0\expndtw1  \expnd0\expndtw0 Ac\expnd0\expndtw-1 h\expnd0\expndtw0 ie\expnd0\expndtw1 v\expnd0\expndtw-2 e\expnd0\expndtw0 r\expnd-1\expndtw-7  \expnd0\expndtw0 at\expnd0\expndtw1  \expnd0\expndtw0 R\expnd0\expndtw1 o\expnd0\expndtw-1 c\expnd0\expndtw0 he\expnd-1\expndtw-4  \expnd0\expndtw-1 P\expnd0\expndtw0 a\expnd0\expndtw1 k\expnd0\expndtw0 i\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw0 an.\par
+{\shp{\*\shpinst
+\shpleft1771\shptop315\shpright10470\shpbottom335
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid162\shpz15
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li820\ri-20\sl240\slmult1\tx1180\f12\fs24\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\charscalex100 Ac\expnd0\expndtw-1 h\expnd0\expndtw0 ie\expnd0\expndtw1 v\expnd0\expndtw0 ed\expnd-2\expndtw-10  \expnd0\expndtw0 20\expnd0\expndtw0  \expnd0\expndtw-1 c\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd0\expndtw-1 s\expnd0\expndtw0 e\expnd0\expndtw-1 c\expnd0\expndtw0 ut\expnd0\expndtw2 i\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd-2\expndtw-8  \expnd0\expndtw1 Q\expnd0\expndtw0 ua\expnd0\expndtw-2 r\expnd0\expndtw1 t\expnd0\expndtw0 e\expnd1\expndtw3 r\expnd0\expndtw-1 -\expnd0\expndtw1 t\expnd0\expndtw-2 a\expnd0\expndtw1 r\expnd0\expndtw1 g\expnd0\expndtw-2 e\expnd0\expndtw1 t\expnd0\expndtw0 s\expnd0\expndtw-2  \expnd0\expndtw0 at\expnd0\expndtw1  \expnd0\expndtw-2 R\expnd0\expndtw1 o\expnd0\expndtw-1 c\expnd0\expndtw0 he.\par
+{\shp{\*\shpinst
+\shpleft1771\shptop325\shpright10470\shpbottom345
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid163\shpz16
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li100\ri-20\sl-282\sb13\f11\fs24\b1\expnd0\expndtw0\charscalex100 Edu\expnd0\expndtw-2 c\expnd0\expndtw0 at\expnd0\expndtw-1 i\expnd0\expndtw1 o\expnd0\expndtw0 n\b0\charscalex100\par\pard\sl-160\sb5\fs16\par\pard\sl-200\fs20\par\pard\sl-200\fs20\par\pard\li820\fi-360\ri544\sl241\slmult1\sb15\tx820\f12\fs24\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\expnd0\expndtw1\charscalex100 M\expnd0\expndtw0 BA\expnd-1\expndtw-6  \expnd0\expndtw0 in\expnd0\expndtw0  \expnd0\expndtw0 Ma\expnd0\expndtw-1 r\expnd0\expndtw1 k\expnd0\expndtw0 e\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw-1 n\expnd0\expndtw0 g\expnd-1\expndtw-3  \expnd0\expndtw0 f\expnd0\expndtw-2 r\expnd0\expndtw-1 o\expnd0\expndtw0 m\expnd-1\expndtw-4  \expnd0\expndtw-1 P\expnd0\expndtw1 r\expnd0\expndtw0 e\expnd0\expndtw-1 s\expnd0\expndtw1 t\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd-1\expndtw-3  \expnd0\expndtw0 Un\expnd0\expndtw-1 i\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd0\expndtw1 r\expnd0\expndtw-1 s\expnd0\expndtw0 it\expnd0\expndtw1 y\expnd0\expndtw0 ,\expnd-2\expndtw-8  \expnd0\expndtw0 Hyd.\expnd0\expndtw0  \expnd0\expndtw-1 w\expnd0\expndtw0 ith\expnd0\expndtw-2  \expnd0\expndtw0 a\expnd0\expndtw0  \expnd0\expndtw0 C\expnd0\expndtw-1 G\expnd0\expndtw-1 P\expnd0\expndtw0 A\expnd0\expndtw-2  \expnd0\expndtw1 o\expnd0\expndtw0 f\expnd0\expndtw0  \expnd0\expndtw0 3.2\f13  (200\expnd0\expndtw-1 6\expnd0\expndtw-1 -\expnd0\expndtw0 2007\expnd0\expndtw-1 )\expnd0\expndtw0 .\par\pard\li460\ri-20\sl-305\tx820\f12\fs24\b0\expnd0\expndtw0\up1\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\charscalex100 Ba\expnd0\expndtw-1 c\expnd0\expndtw0 helor\expnd-2\expndtw-8  \expnd0\expndtw1 o\expnd0\expndtw0 f\expnd0\expndtw-1  \expnd0\expndtw-2 S\expnd0\expndtw-1 c\expnd0\expndtw0 ien\expnd0\expndtw-1 c\expnd0\expndtw0 e\expnd-1\expndtw-7  \expnd0\expndtw0 fr\expnd0\expndtw1 o\expnd0\expndtw0 m\expnd-1\expndtw-4  \expnd0\expndtw1 I\expnd0\expndtw-1 s\expnd0\expndtw0 la\expnd0\expndtw-1 m\expnd0\expndtw0 ia\expnd-1\expndtw-6  \expnd0\expndtw0 C\expnd0\expndtw1 o\expnd0\expndtw0 llege\expnd0\expndtw-2  \expnd0\expndtw-1 S\expnd0\expndtw0 h\expnd0\expndtw2 a\expnd0\expndtw0 h\expnd0\expndtw-1  \expnd0\expndtw-2 S\expnd0\expndtw0 uk\expnd0\expndtw1 k\expnd0\expndtw0 ur\expnd0\expndtw-1  \expnd0\expndtw1 A\expnd0\expndtw0 b\expnd0\expndtw-1 d\expnd0\expndtw0 ul\expnd-1\expndtw-3  \expnd0\expndtw0 Lateef\up0\par\pard\li820\ri-20\sl240\slmult1\sb1\f13\fs24\b0\expnd0\expndtw0\charscalex100 Uni\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd0\expndtw1 r\expnd0\expndtw-1 c\expnd0\expndtw0 it\expnd0\expndtw1 y\expnd0\expndtw0 ,\expnd-2\expndtw-8  \expnd0\expndtw1 K\expnd0\expndtw0 ha\expnd0\expndtw-1 i\expnd0\expndtw1 r\expnd0\expndtw0 p\expnd0\expndtw-1 u\expnd0\expndtw1 r\expnd0\expndtw0 .\expnd0\expndtw0  \expnd-1\expndtw-3 (\expnd0\expndtw0 200\expnd0\expndtw2 3\expnd0\expndtw-1 -\expnd0\expndtw0 2004\expnd0\expndtw-1 )\expnd0\expndtw0 .\par\pard\li460\ri-20\sl-307\tx820\f12\fs24\b0\expnd0\expndtw0\up1\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\charscalex100 In\expnd0\expndtw1 t\expnd0\expndtw0 e\expnd0\expndtw1 r\expnd0\expndtw-1 m\expnd0\expndtw0 ediate\expnd0\expndtw-2  \expnd0\expndtw0 f\expnd0\expndtw-2 r\expnd0\expndtw1 o\expnd0\expndtw0 m\expnd-1\expndtw-4  \expnd0\expndtw0 C\expnd0\expndtw-1 o\expnd0\expndtw-1 m\expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw0 ehen\expnd0\expndtw-1 s\expnd0\expndtw0 i\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd-3\expndtw-13  \expnd0\expndtw0 C\expnd0\expndtw1 o\expnd0\expndtw0 lleg\expnd0\expndtw1 e\expnd0\expndtw0 ,\expnd-1\expndtw-5  \expnd0\expndtw0 Hyd.\expnd0\expndtw0  \expnd0\expndtw0 (1994\expnd0\expndtw2  \f9\expnd0\expndtw-2 \'96\f13\expnd0\expndtw0 199\expnd0\expndtw2 5\expnd0\expndtw0 ).\up0\par\pard\li460\ri-20\sl240\slmult1\tx820\f12\fs24\b0\expnd0\expndtw0\charscalex100 \uc1\u61623 ?\f0\f0\expnd0\expndtw0 \tab \f13\expnd0\expndtw1\charscalex100 M\expnd0\expndtw0 a\expnd0\expndtw1 t\expnd0\expndtw1 r\expnd0\expndtw0 i\expnd0\expndtw-1 c\expnd0\expndtw0 u\expnd0\expndtw-1 l\expnd0\expndtw0 a\expnd0\expndtw1 t\expnd0\expndtw0 i\expnd0\expndtw1 o\expnd0\expndtw0 n\expnd-1\expndtw-6  \expnd0\expndtw-1 f\expnd0\expndtw1 r\expnd0\expndtw1 o\expnd0\expndtw0 m\expnd-1\expndtw-4  \expnd0\expndtw-2 C\expnd0\expndtw-1 o\expnd0\expndtw-1 m\expnd0\expndtw0 p\expnd0\expndtw1 r\expnd0\expndtw0 ehen\expnd0\expndtw-1 s\expnd0\expndtw0 i\expnd0\expndtw1 v\expnd0\expndtw0 e\expnd-3\expndtw-13  \expnd0\expndtw-1 S\expnd0\expndtw-1 c\expnd0\expndtw0 ho\expnd0\expndtw1 o\expnd0\expndtw0 l,\expnd-1\expndtw-6  \expnd0\expndtw-1 H\expnd0\expndtw1 y\expnd0\expndtw0 d.\expnd0\expndtw-2  \expnd0\expndtw-1 (\expnd0\expndtw0 1992\expnd1\expndtw4  \f9\expnd0\expndtw-2 \'96\f13\expnd0\expndtw0 199\expnd0\expndtw2 3\expnd0\expndtw0 ).\par\pard\sl-280\sb6\fs28\par
+{\shp{\*\shpinst
+\shpleft1771\shptop-7\shpright10470\shpbottom12
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid164\shpz17
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 19}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7365}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst
+\shpleft1771\shptop314\shpright10470\shpbottom334
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid165\shpz18
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 8699}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(8699,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 7366}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\li100\ri-20\sl-282\f11\fs24\b1\expnd0\expndtw0\charscalex100 Per\expnd0\expndtw-1 s\expnd0\expndtw1 o\expnd0\expndtw0 nal\expnd-2\expndtw-9  \expnd0\expndtw-1 D\expnd0\expndtw0 eta\expnd0\expndtw1 i\expnd0\expndtw0 ls\b0\charscalex100\par\pard\sl-280\sb1\fs28\par\pard\li616\ri3190\qc\sl240\slmult1\sb18\tx3660\tx4140\f9\fs22\b0\expnd0\expndtw0\charscalex100 Fa\expnd-1\expndtw-3 t\expnd0\expndtw1 h\expnd0\expndtw0 e\expnd0\expndtw-1 r\expnd0\expndtw1 \'92\expnd0\expndtw0 s\expnd0\expndtw0  \expnd0\expndtw-1 N\expnd0\expndtw0 a\expnd-1\expndtw-3 m\expnd0\expndtw0 e\tab \f13\charscalex100 :\tab \expnd0\expndtw-1\charscalex100 T\expnd0\expndtw0 a\expnd0\expndtw-1 h\expnd0\expndtw0 ir\expnd0\expndtw0  \expnd0\expndtw1 H\expnd0\expndtw-1 u\expnd0\expndtw0 s\expnd0\expndtw-2 s\expnd0\expndtw-2 a\expnd0\expndtw0 in\par\pard\li820\ri-20\sl240\slmult1\tx3700\tx4240\f13\fs22\b0\expnd0\expndtw0\charscalex100 Date\expnd0\expndtw0  \expnd0\expndtw-1 o\expnd0\expndtw0 f\expnd0\expndtw1  \expnd0\expndtw0 Bi\expnd0\expndtw-1 r\expnd0\expndtw-2 t\expnd0\expndtw0 h\tab \charscalex100 :\tab \charscalex100 4\fs14\up5 th\expnd4\expndtw20  \fs22\expnd-1\expndtw-3\up0 o\expnd0\expndtw0 f\expnd0\expndtw1  \expnd0\expndtw0 Feb\expnd0\expndtw-1 r\expnd0\expndtw-1 u\expnd0\expndtw0 a\expnd0\expndtw-1 r\expnd0\expndtw0 y\expnd0\expndtw0  \expnd0\expndtw0 19\expnd-1\expndtw-3 7\expnd0\expndtw0 7\par\pard\li820\ri-20\sl240\slmult1\tx3680\tx4180\f13\fs22\b0\expnd0\expndtw0\charscalex100 Mobi\expnd0\expndtw1 l\expnd0\expndtw0 e\expnd0\expndtw-2  \expnd0\expndtw0 #\expnd0\expndtw-2  \expnd0\expndtw1 P\expnd0\expndtw0 K\tab \charscalex100 :\tab \charscalex100 03463\expnd0\expndtw-2 8\expnd0\expndtw0 15520\par\pard\li820\ri-20\sl240\slmult1\tx3700\tx4240\f13\fs22\b0\expnd0\expndtw0\charscalex100 Ma\expnd0\expndtw-1 r\expnd0\expndtw0 ital\expnd0\expndtw1  \expnd0\expndtw-1 S\expnd0\expndtw0 tat\expnd0\expndtw-1 u\expnd0\expndtw0 s\tab \charscalex100 :\tab \charscalex100 Ma\expnd0\expndtw-1 r\expnd0\expndtw-1 r\expnd0\expndtw0 ied\par\pard\li820\ri-20\sl240\slmult1\tx3700\tx4260\f13\fs22\b0\expnd0\expndtw-1\charscalex100 N\expnd0\expndtw0 IC\tab \charscalex100 :\tab \charscalex100 4130\expnd0\expndtw-2 4\expnd0\expndtw1 -\expnd0\expndtw0 294\expnd0\expndtw-2 5\expnd0\expndtw0 52\expnd0\expndtw-2 9\expnd0\expndtw1 -\expnd0\expndtw0 7\par}

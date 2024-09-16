@@ -1,0 +1,21 @@
+$message = '
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td class="borderColor2" style="padding:10px;" align="left">
+	<p class="mainText">
+	<strong>Dear Admin, </strong><br ><br >
+	Someone wants to contact you, Details are below.<br >
+	<strong>Name : </strong> Admin Manager<br >
+	
+	<br>
+	Regards,<br><strong>Team '.$site_name.'</strong><br>3rd, 4th & 5th floor, Holistic Tower, Jinnah Boulevard West,Sector A, DHA Phase-II, Islamabad. <br ><br >
+	</p>
+</td></tr></table> ';
+$subject = "Holistic Jobs Multi Emails";
+$data = array();
+$data['From'] = 'malik.shaheryar@holisticjobs.com.pk';
+$data['FromName'] = 'Shaheryar Malik HJ';
+$data['addAddress'] = array(
+						'malik.shaheryar@holisticsolutions.com.pk'=>'Shaheryar Malik HJ',
+						'malik.shaheryar@hotmail.com'=>'Shaheryar Malik Hotmail'
+					  );
+$body = SendMail($data, $subject, $message, $show=false);

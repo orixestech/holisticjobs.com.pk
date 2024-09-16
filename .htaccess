@@ -1,0 +1,40 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+#	RewriteBase /devmarket/
+	
+#	ErrorDocument 404 /index.php
+#	ErrorDocument 500 /index.php
+
+	RewriteCond %{THE_REQUEST} (\s|%20)
+	RewriteRule ^([^\s%20]+)(?:\s|%20)+([^\s%20]+)((?:\s|%20)+.*)$ $1-$2$3 [N,DPI]
+	RewriteRule ^([^\s%20]+)(?:\s|%20)+(.*)$ /$1-$2 [L,R=301,DPI]
+
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^assets/ - [L,NC]
+	
+	RewriteRule ^(category)/([0-9]+)-(.*)$  index.php?cid=$2&page=category&ctitle=$3 [QSA,NC,L] 
+	RewriteRule ^(item)/([0-9]+)-(.*)$  index.php?pid=$2&page=item&ptitle=$3 [QSA,NC,L] 
+	RewriteRule ^(search)/(price)-([0-9]+)-([0-9]+)$  index.php?priceto=$4&pricefrom=$3&page=search [QSA,NC,L] 
+	RewriteRule ^(search)/(.*)$  index.php?srhkey=$2&page=search [QSA,NC,L] 
+	RewriteRule ^(jobs)/(.*)$  index.php?action=$2&page=jobs [QSA,NC,L] 
+	RewriteRule ^(job)/(view)/([0-9]+)-(.*)$  index.php?action=$2&page=job&jobid=$3 [QSA,NC,L] 
+	RewriteRule ^(job-test)/(view)/([0-9]+)-(.*)$  index.php?action=$2&page=job-test&jobid=$3 [QSA,NC,L] 
+	RewriteRule ^(employer-profile)/(view)/([0-9]+)-(.*)$  index.php?action=$2&page=employer-profile&empid=$3 [QSA,NC,L] 
+	RewriteRule ^(employee-profile)/(view)/([0-9]+)-(.*)$  index.php?action=$2&page=employee-profile&empid=$3 [QSA,NC,L] 
+
+	RewriteRule ^(page)/(.*)$ index.php?page=$2 [QSA,NC,L]
+	RewriteRule ^(user)/(.*)$ index.php?page=user/$2 [QSA,NC,L]
+	RewriteRule ^(author)/(.*)$ index.php?page=author/$2&key=$2 [QSA,NC,L]
+	RewriteRule ^(attributes)/(.*)/(.*)$  index.php?attr-type=$2&page=search&attr-value=$3 [QSA,NC,L] 
+	RewriteRule ^(reports)/([0-9]+)/(.*)$  pdf-print.php?uid=$2&print-type=$3 [QSA,NC,L] 
+	RewriteRule ^(download)/(.*)/(.*)$  index.php?page=download&filename=$3&action=$2 [QSA,NC,L] 
+	RewriteRule ^(under-maintenance)$  site_online.php [QSA,NC,L] 
+	RewriteRule ^(holistic-cv)/(.*)$  pdf-print.php?key=$2&print-type=holistic_cv [QSA,NC,L] 
+
+	
+	#RewriteRule ^(.*)$ index.php?page=$1 [QSA,NC,L]
+	
+	
+	
+</IfModule>
