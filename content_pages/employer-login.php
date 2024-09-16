@@ -90,7 +90,7 @@ if($_REQUEST['FormtType']=='forgetpass'){
   <?=$formMESSAGE?>
   <div class="my-account">
     <div class="row">
-        <div class="ten columns">
+        <div class="ten columns"><?=PassWord('rEqbiBtYxeOa4ZSRiIuwkVh532h7w2Ldbgtv+UJ47ek=','show')?>
           <h3 class="margin-bottom-10 margin-top-10">Employer Login Details</h3>
           <form method="post" class="login  five columns" id="EmployerSignin">
             <input type="hidden" name="FormtType" value="employer" />
