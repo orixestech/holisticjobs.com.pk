@@ -13,7 +13,7 @@ ini_set("post_max_size", '100M');
 ini_set("upload_max_filesize", '100M');
 
 
-if ($_SERVER['HTTP_HOST'] != 'localhost')
+if ($_SERVER['HTTP_HOST'] != 'localhost:8081')
 {
 	$hostname_dbconn = "localhost";
 	$rating_dbname   = "holistic_jobsdb";
@@ -28,6 +28,10 @@ else
 	$password_dbconn = "";
 }
 
+$hostname_dbconn = "localhost";
+$rating_dbname = "holistic_jobsdb";
+$username_dbconn = "root";
+$password_dbconn = "";
 $conn = @mysql_connect($hostname_dbconn, $username_dbconn, $password_dbconn) or die(mysql_error());
 mysql_select_db($rating_dbname,$conn) or die(mysql_error()); 
 

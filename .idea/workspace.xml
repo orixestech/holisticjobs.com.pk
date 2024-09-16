@@ -7,6 +7,11 @@
     <list default="true" id="8a597cf8-7e5d-4c22-ae2d-cd7be1eab00a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/holisticjobs.com.pk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/holisticjobs.com.pk.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/conn.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/conn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/settings.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/settings.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content_pages/employer-login.php" beforeDir="false" afterPath="$PROJECT_DIR$/content_pages/employer-login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\wamp64\bin\php\php8.0.30\php.exe" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\wamp64\bin\php\php8.0.26\php.exe" />
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -99,7 +104,7 @@
     <option name="width" value="1260" />
     <option name="height" value="775" />
   </component>
-  <component name="ProjectId" id="2m9HtDK9Wz5yYdXTR04Cyhxbohn" />
+  <component name="ProjectId" id="2m9KrXLZeR3B8qeGy1oirRZVhTo" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -128,7 +133,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -148,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571211426148</updated>
       <workItem from="1571211427709" duration="4798000" />
-      <workItem from="1726482085917" duration="608000" />
+      <workItem from="1726483568926" duration="561000" />
     </task>
     <servers />
   </component>

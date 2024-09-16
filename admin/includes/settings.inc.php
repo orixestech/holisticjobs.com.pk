@@ -16,14 +16,16 @@ while($row_site_name = mysql_fetch_array($exe_site_name)){
 }
 
 if ($_SERVER['HTTP_HOST'] == 'localhost'){
-	$path = 'http://localhost/holisticjobs.com.pk/';
+	$path = 'http://localhost:8081/holisticjobs.com.pk/';
 }
 else{
 	$path = $SETTING['siteurl'];
 }
 
+$path = 'http://localhost:8081/holisticjobs.com.pk/';
+
 $admin_path = $path."admin/";
-if ($_SERVER['HTTP_HOST'] != 'localhost'){
+if ($_SERVER['HTTP_HOST'] != 'localhost:8081'){
 	$root_path = $_SERVER['DOCUMENT_ROOT'] . "/";
 } else {
 	$root_path = $_SERVER['DOCUMENT_ROOT'] . "/holisticjobs.com.pk/";
