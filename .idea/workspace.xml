@@ -1,445 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8a597cf8-7e5d-4c22-ae2d-cd7be1eab00a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/content_pages/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/content_pages/homepage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/holistic_jobsdb.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/holistic_jobsdb.sql.zip" beforeDir="false" afterPath="$PROJECT_DIR$/db/holistic_jobsdb.sql.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/abdul-munaim-4723.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/adeel-ahmed-siddiqui-18147.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/adeel-ahmed-siddiqui-25081.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/adeel-ahmed-siddiqui-68269.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/adeel-javed-shamsi-6016.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/adeel-syed-82498.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/adnan-hashim-70428.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/afaq-ahmed-83922.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/ahmed-hassan-76850.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/aisha-shafi-hashmi-74241.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/ali-arshad-38944.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/ali-sher-alamdar-23971.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/ali-sher-alamdar-76038.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/altamash-khan-14148.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/ambareen-jahan-75846.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/amir-khan-88527.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/aneela-liaquat-cv-82735.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/anila-afzal-99256.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/areeba-akram-pharmacist-44415.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/arsalan-haque-94555.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/asad-jehangir-asad-jehangir-70561.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/asif-hussain-83528.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/asma-zahid-27579.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/atifa-mushtaq-82811.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/attaullah-shah-bukhari-96399.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/azka-nasir-22331.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/baahir-khan-32236.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/baahir-khan-47135.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/baahir-khan-66981.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/baahir-khan-88528.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/bashir-khan-62431.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/basim-zia-47543.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/basit-mehdi-3685.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/basit-mehdi-46881.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/binish-shakeel-42786.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/binish-shakeel-58043.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/bushra-fatima-resume-9954.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/danish-17728.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/dost-muhammad-59740.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_10607.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_11535.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_12632.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_14047.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_16876.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_19960.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_20653.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_22180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_23260.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_23929.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_27234.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_28472.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_2889.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_33627.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_36197.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_36334.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_36407.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_36902.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_37091.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_41300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_4280.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_44400.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_44805.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_4667.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_48823.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_49368.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_49823.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_50452.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_53647.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_54218.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_56906.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_58865.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_58951.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_59226.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_60705.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_63129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_63673.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_65020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_66525.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_67016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_67133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_67951.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_69027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_69159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_71524.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_72527.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_73037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_7406.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_7501.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_75299.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_78253.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_78357.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_7969.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_80176.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_81895.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_83684.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_86097.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_87575.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_95334.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_95447.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_97069.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_97242.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employee_99305.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_15247.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_26684.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_26987.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_37152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_38445.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_41838.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_54678.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_59583.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_62860.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_83899.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_85189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-cover_95511.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer-no-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_10266.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_10712.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_11254.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_14321.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_14744.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_17035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_17804.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_18309.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_2027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_22051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_22625.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_23806.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_24216.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_25226.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_26349.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_27574.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_27641.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_29559.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_30836.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_31998.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_32926.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_33306.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_34503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_35252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_36569.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_36935.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_3753.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_3887.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_39458.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_4078.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_43395.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_451.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_45226.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_46775.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_5015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_50430.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_5542.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_60683.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_61566.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_63847.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_67092.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_68418.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_72809.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_7310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_75737.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_80951.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_80973.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_82004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_9284.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_93571.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_95158.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/employer_97496.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/faisal-82571.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/faisal-ahmed-75022.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/faisal-ahmed-83066.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/faisal-khan-national-sales-manager-72062.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/faiza-anjum-76328.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/faraz-ali-2688.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/farhan-saeed-39961.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/farhan-tariq-67084.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-11226.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-1388.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-15012.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-15199.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-15308.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-23619.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-30148.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-33880.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-37897.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-56883.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-58000.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-60354.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-71214.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-74057.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-84478.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-95175.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-96493.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-98348.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-helooo-91962.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-tehseen-43472.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fariha-tehseen-54023.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/farrukh-hammad-56145.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/faryal-ahmed-shaikh-927.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fatimah-39488.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fatimah-96128.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fayyaz-hussain-93674.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fozia-hanif-319.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/fsadfdasfdas-96842.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/furqan-ullah-khan-58511.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/ghulam-abbas-61024.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/ghulam-abbas-jalbani-19022.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/ghulam-abbas-jalbani-61701.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/hera-anwar-37484.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/hifza-9924.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/hira-noureen-khan-hira-s-resume-47451.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/hur-haider-naqvi-23874.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/hur-haider-naqvi-40084.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/hur-haider-naqvi-75012.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/imran-hussain-78180.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/inam-zaidi-21811.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/inam-zaidi-2351.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/inam-zaidi-33993.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/inam-zaidi-58889.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/inam-zaidi-70634.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/inam-zaidi-8351.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/inam-zaidi-96692.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/irsa-kanwal-12805.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/irsa-kanwal-62981.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/kamran-javed-77008.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/khurram-66372.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/kousar-ali-96011.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/liaqat-ali-29673.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/malik-noman-75198.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/mariya-28123.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/maryam-afzal-lakha-59853.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/moazzam-hakim-4906.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/mohamed-ayaz-khan-54730.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/mohammad-khalid-44464.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/mohammad-khalid-58169.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/mohammad-shahzad-40349.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/mohammad-zubair-khan-c-v-cover-letter-41115.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/mubeen-uddin-mubeen-uddin-78674.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-akmal-5378.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-aqeel-khan-aqeel-resume-18906.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-arif-38390.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-arslan-71894.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-asad-munir-33459.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-asif-bhatti-98224.PDF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-billal-kazmi-52527.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-burhan-43743.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-faizan-bin-razzak-76043.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-faizan-khan-zai-87170.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-hammad-ali-75257.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-hamza-amin-52799.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-haris-m-haris-zakir-28894.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-haseeb-25574.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-irfan-khokhar-38016.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-jameel-41598.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-jameel-42688.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-jamil-78601.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-maazullah-947.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-majid-12984.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-majid-53678.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-majid-85475.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-majid-86751.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-pervez-khattak-69285.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-pervez-khattak-90914.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-rehan-40387.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-rehan-93804.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-safdar-for-hr-or-admin-department-12748.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-sajjad-41356.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-talal-saleem-75868.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-umair-aslam-72314.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-usman-arif-12027.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-wajeeh-5027.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muhammad-yasir-51376.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/musa-raza-musa-raza-cv-53260.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/musaddiq-islam-medical-student-40894.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/mushtaq-haider-ali-10283.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muzammel-riaz-16043.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muzammel-riaz-28433.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muzammel-riaz-7744.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/muzammel-riaz-93308.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nabeel-badar-34290.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nabeel-badar-97062.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nadeem-a-hashmi-78432.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nadeem-hassan-13911.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nadeem-hassan-43343.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nadeem-khan-47194.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nadeem-khan-80729.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nadeem-khan-80970.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naila-kanwal-41793.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nanak-ram-lohana-64608.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nanak-ram-lohana-86832.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-19199.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-27253.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-28775.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-31422.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-32238.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-40838.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-41409.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-41833.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-49484.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-5933.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-71507.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-78313.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-9248.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-akhtar-92832.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-aktar-21443.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/naveed-shahzad-44294.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nazar-hussain-shaikh-nazar-resume-97105.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nazar-hussain-shaikh-nazar-resume-99069.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nazar-muhammad-17961.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nida-nida-naeem-36832.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/nisar-ahmed-97211.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/no-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/noman-ahmed-rajput-41999.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/noman-ahmed-rajput-70793.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/owais-khan-32070.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/qadeer-ahmad-92268.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/qazi-fahad-29763.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/quratulain-59245.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/rana-rizwan-ul-hassa-cv-rana-rizwan-40942.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/rao-atif-jahangir-24975.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/rao-atif-jahangir-29384.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/rao-atif-jahangir-52717.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/rashid-uz-zaman-26634.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/saima-bibi-68299.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/saima-hussain-96858.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sajeel-usmani-5744.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sajjad-ali-59435.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sajjad-ali-74712.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sajjad-qaisar-47091.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/saleem-hashmi-area-sales-manager-19631.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/saleem-hashmi-saleem-hashmi-48213.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/salman-87702.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/salman-afzal-47036.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/salman-afzal-516.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/salman-afzal-65876.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/salman-afzal-86761.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/salman-hakkani-59016.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/salman-khatri-77203.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sameer-16187.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sameer-53645.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/saqib-naveed-mirza-2238.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sardar-mohammad-mohsin-khan-5036.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sarfraz-owais-siddiqui-24971.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sarfraz-owais-siddiqui-81586.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sarmad-qadri-sarmad-qadri-cv-5288.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shah-nawaz-khan-97845.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shahdil-zafar-68531.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-41153.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-43823.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-48254.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-6512.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-76908.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-7708.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-88157.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-89560.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-54605.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-8070.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-default-cv-14923.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-default-cv-25863.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-default-cv-93226.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-fdfasfas-42392.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-fdsafasfdas-12457.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-fe-s-sdaf-sad-fsda-2124.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-fe-s-sdaf-sad-fsda-52979.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-fsafas-17959.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shaheryar-malik-my-cv-839.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shahid-ullah-94842.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shahidullah-50850.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shahidullah-67373.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shahzad-afzal-41396.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shajjiah-pervaiz-sethi-25008.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shariq-zaman-39537.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sharmeen-sarwat-39276.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sheikh-tariq-kamal-52556.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/shoaib-khan-85185.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/sunita-89168.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-abrar-ahmed-65270.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-aqleem-hasan-32194.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-arsalan-43833.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-ibrar-ullah-17431.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-ibrar-ullah-19212.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-ibrar-ullah-98243.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-israr-hussain-98178.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-junaid-hussain-88792.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-meesum-hassan-meesum-resume-26234.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-muhammad-hasan-raza-38138.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-muhammad-ikhlas-72252.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-muhammad-kumale-21574.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-muhammad-zeesha-s-m-zeeshan-cv-29046.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-muzzyian-husaya-smh-profile-76737.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-muzzyian-husaya-smh-profile-84976.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-pasha-masroor-1729.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-shariq-ali-28108.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-uzair-hassan-kazmi-10038.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-wahaj-hussain-61762.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/syed-waqas-abdali-accountant-88942.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/talha-zamir-82015.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/test-99405.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/umair-raghib-75535.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/umer-rasheed-31916.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/usman-amjad-1211.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/usman-amjad-30169.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/usman-amjad-3085.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/usman-mirza-21479.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/uzair-ahmed-47487.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/uzma-riaz-83621.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/uzma-riaz-8844.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/wajiha-zafar-51682.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/waqar-ahmed-khatri-14298.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/waqar-khalil-42409.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/waqar-khalil-73758.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/waqar-khalil-9521.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/waqas-sohail-22755.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/wasi-sufiyan-71353.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/xeecue-48904.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/xeecue-59277.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/xeecue-62271.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/xubair-quraishy-92110.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/xubair-quraishy-xee-cv-75655.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/zaka-ur-rehman-48172.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/zulfiqarali-ali-83545.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/zulfiqarali-ali-cv-14523.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/holisticjobs.com.pk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/holisticjobs.com.pk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/admin/includes/PHPMailer-master/composer.json" />
+    </option>
+  </component>
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/chartjs/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -499,6 +80,7 @@
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\wamp64\bin\php\php8.0.30\php.exe" />
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -517,6 +99,7 @@
     <option name="width" value="1260" />
     <option name="height" value="775" />
   </component>
+  <component name="ProjectId" id="2m9HtDK9Wz5yYdXTR04Cyhxbohn" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -536,24 +119,24 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -565,6 +148,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571211426148</updated>
       <workItem from="1571211427709" duration="4798000" />
+      <workItem from="1726482085917" duration="608000" />
     </task>
     <servers />
   </component>
@@ -596,7 +180,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/home-banner.php">
