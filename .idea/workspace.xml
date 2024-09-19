@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a597cf8-7e5d-4c22-ae2d-cd7be1eab00a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/holisticjobs.com.pk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/holisticjobs.com.pk.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/includes/conn.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/conn.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/includes/settings.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/settings.inc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_pages/employer-login.php" beforeDir="false" afterPath="$PROJECT_DIR$/content_pages/employer-login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +128,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",

@@ -1,10 +1,10 @@
 <?php
 include("includes/conn.php"); 
 include("admin_theme_functions.php");
-if ($_SERVER['HTTP_HOST'] != 'localhost'){
-	if ($_SERVER['HTTP_HOST'] != 'www.holisticjobs.com.pk'){
-		echo "<script language='javascript'>window.location = '".$path."admin/';</script>"; exit;
-	}
+if ($_SERVER['HTTP_HOST'] != 'localhost:8081'){
+//	if ($_SERVER['HTTP_HOST'] != 'www.holisticjobs.com.pk'){
+//		echo "<script language='javascript'>window.location = '".$path."admin/';</script>"; exit;
+//	}
 }
 
 $_SESSION['AdminLogged'] = $_SESSION['Admin'] = $FormMessge='';
@@ -29,6 +29,7 @@ if(isset($_POST['form']) && $_POST['form'] == 'login'){
 	}
 }
 
+echo PassWord('htbDj+MpQdEycGnwzUqsjak+1DE0xjI16P+2XGUQurs=','show');
 ?>
 <!DOCTYPE html>
 <html lang="en">
